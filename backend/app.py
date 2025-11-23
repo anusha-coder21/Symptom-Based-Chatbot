@@ -120,7 +120,7 @@ def get_3_home_remedies(symptom_text):
 def load_and_prepare_data():
     global df
     
-    data_path = os.path.join(os.path.dirname(__file__), "train.jsonl")
+    data_path = os.path.join(os.path.dirname(__file__), "train_shuffled.jsonl")
 
     if not os.path.exists(data_path):
         raise FileNotFoundError(f"Dataset not found at: {data_path}")

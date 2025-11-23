@@ -946,6 +946,17 @@
 {"output_text": "malaria", "input_text": "I've been feeling really itchy all over my body, and I've been having chills and nausea. I've been sweating a lot and I have a really high fever. I feel sick to my stomach and I have a headache. My muscles are really sore."}
 {"output_text": "chicken pox", "input_text": "I have a rash all over my body that is red and swollen. It is itchy and uncomfortable. I also have a fever."}
 {"output_text": "allergy", "input_text": "I have asthma and get wheezing and breathing issues. I also have fevers, headaches, and I'm always tired."}
+{"output_text": "fever", "input_text": "I have a high temperature and feel body pain."}
+{"output_text": "common cold", "input_text": "I can’t breathe clearly through my nose and have watery eyes."}
+{"output_text": "fever", "input_text": "My body feels very warm and I keep feeling weak."}
+{"output_text": "common cold", "input_text": "I am coughing lightly and sneezing frequently."}
+{"output_text": "fever", "input_text": "My temperature is up and I feel chills and heaviness."}
+{"output_text": "common cold", "input_text": "I have a runny nose and my throat is scratchy."}
+{"output_text": "fever", "input_text": "I’m sweating even without activity and feel extremely tired."}
+{"output_text": "common cold", "input_text": "My throat hurts a little and I can't stop sneezing."}
+{"output_text": "fever", "input_text": "My body feels warm and I keep shivering on and off."}
+{"output_text": "common cold", "input_text": "I have a stuffy nose and slight cough with fatigue."}
+{"output_text": "fever", "input_text": "I feel hot and weak with chills."}
 {"output_text": "arthritis", "input_text": "My muscles are weak, my neck is stiff, and my joints are swollen. I can't move around very well, and walking is really painful."}
 {"output_text": "dengue", "input_text": "I have been experiencing a severe fever for the past 3 days. I also have a headache and pain behind my eyes. I feel very tired and exhausted. I cannot do any work."}
 {"output_text": "chicken pox", "input_text": "I have a fever, headache, and I'm tired all the time. I don't want to eat anything."}
@@ -1010,6 +1021,10 @@
 {"output_text": "bronchial asthma", "input_text": "I've been having a terrible cough, I can't breathe well, and I'm so tired. I've been coughing up a lot of thick, mucusy stuff, and I have a fever. I feel really bad."}
 {"output_text": "urinary tract infection", "input_text": "I have been having pain in my bladder and have been getting up to pee a lot."}
 {"output_text": "psoriasis", "input_text": "I have a silvery dusting on my skin, especially on my lower back and scalp. It is made up of small scales that flake off easily when I scratch them."}
+{"output_text": "food poisoning", "input_text": "I have cramps and nausea after eating cold food from the fridge."}
+{"output_text": "food poisoning", "input_text": "My stomach feels extremely tight, and I have diarrhea and vomiting."}
+{"output_text": "food poisoning", "input_text": "I feel sick to my stomach and very weak after eating salad."}
+{"output_text": "food poisoning", "input_text": "I have nausea, stomach soreness, and loose stools after a meal."}
 {"output_text": "dengue", "input_text": "I have been feeling very tired and weak. I have also been vomiting and have developed rashes on my arms, neck, and legs. "}
 {"output_text": "dengue", "input_text": "I have been experiencing a severe headache for the past few days. It is accompanied by pain behind my eyes. I feel tired and fatigued because of which I cannot work all day. I am worried about my health."}
 {"output_text": "hypertension", "input_text": "I've been feeling dizzy and lightheaded, and I've been having trouble concentrating and focusing."}
@@ -1053,6 +1068,10 @@
 {"output_text": "allergy", "input_text": "I've been having trouble swallowing, and my appetite has decreased. I also have a sore throat, and my nose has been running."}
 {"output_text": "jaundice", "input_text": "I've been feeling really sick lately. I've been throwing up and I'm itchy all over. I've also lost a lot of weight and I'm really exhausted. My skin has turned yellow and I have a fever. My stomach has been hurting too."}
 {"output_text": "psoriasis", "input_text": "I've had trouble sleeping because of the rash's pain and itching. The skin on my fingers are starting to peel off. My nails have a few tiny cracks, which is really worrying. "}
+{"output_text": "allergy", "input_text": "I get red, warm bumps on my arms after exposure to cold wind."}
+{"output_text": "allergy", "input_text": "My nose runs constantly and I sneeze near carpets."}
+{"output_text": "allergy", "input_text": "I get hives on my neck after spraying deodorant."}
+{"output_text": "allergy", "input_text": "My eyes itch and get watery after touching my dog."}
 {"output_text": "arthritis", "input_text": "My muscles have been feeling weak and my joints have been swollen. It has been hard to move around and it hurts to walk."}
 {"output_text": "drug reaction", "input_text": "I've been having really bad nausea and my chest hurts. I've been really nervous and I shiver a lot."}
 {"output_text": "bronchial asthma", "input_text": "I've been having trouble breathing and I've been coughing up a lot of mucus. I've also been feeling really tired."}
@@ -1154,17 +1173,7 @@
 {"output_text": "common cold", "input_text": "My cough is mild but my throat feels irritated."}
 {"output_text": "fever", "input_text": "I feel hot, tired, and have chills coming and going."}
 {"output_text": "common cold", "input_text": "I have nasal congestion and a slight headache."}
-{"output_text": "fever", "input_text": "I have a high temperature and feel body pain."}
-{"output_text": "common cold", "input_text": "I can’t breathe clearly through my nose and have watery eyes."}
-{"output_text": "fever", "input_text": "My body feels very warm and I keep feeling weak."}
-{"output_text": "common cold", "input_text": "I am coughing lightly and sneezing frequently."}
-{"output_text": "fever", "input_text": "My temperature is up and I feel chills and heaviness."}
-{"output_text": "common cold", "input_text": "I have a runny nose and my throat is scratchy."}
-{"output_text": "fever", "input_text": "I’m sweating even without activity and feel extremely tired."}
-{"output_text": "common cold", "input_text": "My throat hurts a little and I can't stop sneezing."}
-{"output_text": "fever", "input_text": "My body feels warm and I keep shivering on and off."}
-{"output_text": "common cold", "input_text": "I have a stuffy nose and slight cough with fatigue."}
-{"output_text": "fever", "input_text": "I feel hot and weak with chills."}
+
 {"output_text": "common cold", "input_text": "My head feels heavy and my nose is blocked."}
 {"output_text": "fever", "input_text": "I feel overheated and my muscles are sore."}
 {"output_text": "common cold", "input_text": "I keep sneezing and my throat is dry."}
@@ -1237,10 +1246,6 @@
 {"output_text": "allergy", "input_text": "I sneeze often and my nose runs near farm animals."}
 {"output_text": "allergy", "input_text": "My throat and lips tingle after eating chocolate."}
 {"output_text": "allergy", "input_text": "My eyes itch and turn red when I ride with car windows down in spring."}
-{"output_text": "allergy", "input_text": "I get red, warm bumps on my arms after exposure to cold wind."}
-{"output_text": "allergy", "input_text": "My nose runs constantly and I sneeze near carpets."}
-{"output_text": "allergy", "input_text": "I get hives on my neck after spraying deodorant."}
-{"output_text": "allergy", "input_text": "My eyes itch and get watery after touching my dog."}
 {"output_text": "allergy", "input_text": "I start coughing and sneezing around strong paint fumes."}
 {"output_text": "allergy", "input_text": "I feel my throat get itchy after eating bananas."}
 {"output_text": "allergy", "input_text": "My skin becomes irritated after wearing rubber bands."}
@@ -1343,14 +1348,15 @@
 {"output_text": "food poisoning", "input_text": "I threw up multiple times and have ongoing abdominal discomfort."}
 {"output_text": "food poisoning", "input_text": "My stomach feels sick and I can’t keep liquids down."}
 {"output_text": "food poisoning", "input_text": "I feel constant nausea and sharp belly pain."}
+{"output_text": "schizophrenia", "input_text": "I feel emotionally flat and have trouble feeling happy or sad."}
+{"output_text": "schizophrenia", "input_text": "I find it hard to stay focused and complete simple tasks."}
+{"output_text": "schizophrenia", "input_text": "I believe people can read my thoughts even though I know it sounds strange."}
+{"output_text": "schizophrenia", "input_text": "I avoid people because I feel unsafe or misunderstood."}
+{"output_text": "schizophrenia", "input_text": "I get confused about what is real and what isn’t."}
 {"output_text": "food poisoning", "input_text": "I have vomiting and stomach cramps that started suddenly."}
 {"output_text": "food poisoning", "input_text": "I feel dizzy and nauseous after eating questionable food."}
 {"output_text": "food poisoning", "input_text": "My stomach feels bloated and painful with repeated diarrhea."}
 {"output_text": "food poisoning", "input_text": "I have chills, vomiting, and severe gut discomfort."}
-{"output_text": "food poisoning", "input_text": "I have cramps and nausea after eating cold food from the fridge."}
-{"output_text": "food poisoning", "input_text": "My stomach feels extremely tight, and I have diarrhea and vomiting."}
-{"output_text": "food poisoning", "input_text": "I feel sick to my stomach and very weak after eating salad."}
-{"output_text": "food poisoning", "input_text": "I have nausea, stomach soreness, and loose stools after a meal."}
 {"output_text": "food poisoning", "input_text": "I feel cold, sweaty, and nauseous with stomach pain."}
 {"output_text": "food poisoning", "input_text": "My stomach feels gurgly and I threw up twice."}
 {"output_text": "food poisoning", "input_text": "I have diarrhea and stomach tightening after drinking milkshake."}
@@ -1661,11 +1667,7 @@
 {"output_text": "schizophrenia", "input_text": "I sometimes feel like people around me are plotting against me."}
 {"output_text": "schizophrenia", "input_text": "I see things that others say aren’t actually there."}
 {"output_text": "schizophrenia", "input_text": "My thoughts feel jumbled and I struggle to express myself clearly."}
-{"output_text": "schizophrenia", "input_text": "I feel emotionally flat and have trouble feeling happy or sad."}
-{"output_text": "schizophrenia", "input_text": "I find it hard to stay focused and complete simple tasks."}
-{"output_text": "schizophrenia", "input_text": "I believe people can read my thoughts even though I know it sounds strange."}
-{"output_text": "schizophrenia", "input_text": "I avoid people because I feel unsafe or misunderstood."}
-{"output_text": "schizophrenia", "input_text": "I get confused about what is real and what isn’t."}
+
 {"output_text": "schizophrenia", "input_text": "My speech becomes disorganized and people have trouble understanding me."}
 {"output_text": "substance use disorder", "input_text": "I rely on alcohol to feel relaxed, even though it's affecting my health."}
 {"output_text": "substance use disorder", "input_text": "I experience cravings for substances when I try to stop."}
