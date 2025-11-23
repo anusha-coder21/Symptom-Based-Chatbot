@@ -1063,3 +1063,620 @@
 {"output_text": "bronchial asthma", "input_text": "I've been having a hard time breathing, and I've been coughing up a lot of mucous. I'm also feeling really tired and weak."}
 {"output_text": "bronchial asthma", "input_text": "I've been coughing a lot for a few days now. It's been hard for me to catch my breath, and I've been feeling very exhausted. I've also been producing a lot of mucus when I cough."}
 {"output_text": "dengue", "input_text": "I have a severe headache that feels like pressure in my head. I also have a mild fever and small red spots on my back."}
+{"output_text": "pcod", "input_text": "My periods have been irregular for months and I have been gaining weight even without changing my diet."}
+{"output_text": "pcos", "input_text": "I’ve noticed more facial hair lately and my periods are extremely unpredictable."}
+{"output_text": "pcod", "input_text": "I feel bloated most of the time and I struggle with acne breakouts frequently."}
+{"output_text": "pcos", "input_text": "My menstrual cycle has become very irregular and I feel tired almost every day."}
+{"output_text": "pcod", "input_text": "I have been having frequent mood swings and my skin has become oily with pimples."}
+{"output_text": "pcos", "input_text": "I am experiencing hair fall and have been gaining weight steadily."}
+{"output_text": "pcod", "input_text": "My lower abdomen hurts often and my periods are delayed every month."}
+{"output_text": "pcos", "input_text": "I have dark patches on my neck and underarms along with irregular periods."}
+{"output_text": "pcod", "input_text": "I feel tired, bloated, and experience frequent headaches around my periods."}
+{"output_text": "pcos", "input_text": "I have been having difficulty controlling my weight and feel pain in my pelvic area."}
+{"output_text": "pcod", "input_text": "My cycle has been unpredictable and I get severe acne around my chin area."}
+{"output_text": "pcos", "input_text": "I’ve been noticing excessive hair growth on my face and stomach along with long gaps between periods."}
+{"output_text": "pcod", "input_text": "I have been having mild cramps throughout the month and feel constipated often."}
+{"output_text": "pcos", "input_text": "I get intense fatigue, irregular bleeding, and sometimes sharp pain near my ovaries."}
+{"output_text": "pcod", "input_text": "My body feels swollen and I crave sugar more than usual, especially before my period."}
+{"output_text": "pcos", "input_text": "I’m having trouble sleeping, my skin breaks out a lot, and I have irregular periods."}
+{"output_text": "pcod", "input_text": "I’ve been experiencing weight gain mainly around my abdomen and my periods are delayed."}
+{"output_text": "pcos", "input_text": "My blood sugar levels feel unstable, I have acne, and my periods are very irregular."}
+{"output_text": "pcod", "input_text": "I feel constant fatigue, have mild lower back pain, and my menstrual cycle is unpredictable."}
+{"output_text": "pcos", "input_text": "I have thinning hair on my scalp, increased facial hair, and irregular menstruation."}
+{"output_text": "pcod", "input_text": "My stomach feels heavy and I get cramps even when I am not on my period."}
+{"output_text": "pcos", "input_text": "I get frequent mood swings, feel tired easily, and my periods are irregular."}
+{"output_text": "pcod", "input_text": "I have acne, bloating, and mild pelvic discomfort every few days."}
+{"output_text": "pcos", "input_text": "My cycle has stopped for several months and I have been gaining weight steadily."}
+{"output_text": "common cold", "input_text": "My nose is runny and I keep sneezing all day. My throat feels scratchy and I have mild congestion."}
+{"output_text": "fever", "input_text": "I feel very warm, my body aches, and I have chills that come and go."}
+{"output_text": "common cold", "input_text": "I’ve been coughing lightly and my nose is blocked. I feel tired but not too sick."}
+{"output_text": "fever", "input_text": "My temperature is high and I feel dizzy with a pounding headache."}
+{"output_text": "common cold", "input_text": "My throat is irritated, my eyes are watery, and I can't stop sneezing."}
+{"output_text": "fever", "input_text": "I feel extremely warm, and I am sweating even when the room is cool."}
+{"output_text": "common cold", "input_text": "I have mild coughing, a stuffy nose, and slight discomfort in my throat."}
+{"output_text": "fever", "input_text": "I feel weak and my body feels hot with chills."}
+{"output_text": "common cold", "input_text": "My nose is leaking constantly and my throat feels dry."}
+{"output_text": "fever", "input_text": "My temperature is higher than usual and I feel fatigued."}
+{"output_text": "common cold", "input_text": "I can't breathe well through my nose, and my head feels heavy."}
+{"output_text": "fever", "input_text": "My skin feels warm to the touch and I have mild shivering episodes."}
+{"output_text": "common cold", "input_text": "My cough is persistent but not too serious and my sinuses feel clogged."}
+{"output_text": "fever", "input_text": "I feel heat radiating from my forehead and I feel exhausted."}
+{"output_text": "common cold", "input_text": "I have continuous sneezing and a mild cough with slight congestion."}
+{"output_text": "fever", "input_text": "I feel extremely tired, warm, and have chills in waves."}
+{"output_text": "common cold", "input_text": "My throat hurts when I swallow and I am sneezing a lot."}
+{"output_text": "fever", "input_text": "I feel hot and cold at the same time and my head hurts."}
+{"output_text": "common cold", "input_text": "I have a blocked nose and mild coughing with no serious weakness."}
+{"output_text": "fever", "input_text": "I feel heat on my skin and have slight vomiting sensation due to the fever."}
+{"output_text": "common cold", "input_text": "My nose keeps dripping, my voice sounds nasal, and I feel mildly tired."}
+{"output_text": "fever", "input_text": "I feel extremely weak, hot, and have body aches everywhere."}
+{"output_text": "common cold", "input_text": "I feel mild irritation in my throat and my sinuses feel blocked."}
+{"output_text": "fever", "input_text": "I’m sweating a lot but also shivering and my head feels heavy."}
+{"output_text": "common cold", "input_text": "I can't stop sneezing and my cough is mild but annoying."}
+{"output_text": "fever", "input_text": "My body feels overheated and I have sharp headaches."}
+{"output_text": "common cold", "input_text": "My throat feels sore and I have a runny nose with watery eyes."}
+{"output_text": "fever", "input_text": "I am feeling hot with chills and feel extremely low on energy."}
+{"output_text": "common cold", "input_text": "I feel nasal congestion and slight sinus pressure."}
+{"output_text": "fever", "input_text": "My temperature is high and I feel constant body aches."}
+{"output_text": "common cold", "input_text": "I have a mild cough and it hurts slightly when I swallow."}
+{"output_text": "fever", "input_text": "I keep sweating and have alternating chills and warmth."}
+{"output_text": "common cold", "input_text": "My nose feels stuffy and my head feels heavy from congestion."}
+{"output_text": "fever", "input_text": "My whole body aches and I feel extremely warm and tired."}
+{"output_text": "common cold", "input_text": "I am sneezing constantly and my throat tickles."}
+{"output_text": "fever", "input_text": "I have chills and body weakness, and my skin feels hot."}
+{"output_text": "common cold", "input_text": "I have mild coughing and my nose is running all day."}
+{"output_text": "fever", "input_text": "My head hurts and I feel too warm and shivery."}
+{"output_text": "common cold", "input_text": "My throat is a bit sore and I am coughing slightly."}
+{"output_text": "fever", "input_text": "I feel too warm and keep experiencing chills."}
+{"output_text": "common cold", "input_text": "My nose feels irritated and I keep blowing it."}
+{"output_text": "fever", "input_text": "My temperature is high and I feel joint pain."}
+{"output_text": "common cold", "input_text": "I have mild sinus pressure and constant sneezing."}
+{"output_text": "fever", "input_text": "My body feels heavy, hot, and weak."}
+{"output_text": "common cold", "input_text": "My cough is light but my nose is very congested."}
+{"output_text": "fever", "input_text": "I feel heat rising from my body and I’m sweating a lot."}
+{"output_text": "common cold", "input_text": "My throat feels dry and I have a runny nose."}
+{"output_text": "fever", "input_text": "I feel drained, with a hot forehead and chills."}
+{"output_text": "common cold", "input_text": "I keep sneezing and my eyes are watery."}
+{"output_text": "fever", "input_text": "My body temperature is high and I feel extremely sluggish."}
+{"output_text": "common cold", "input_text": "I have mild pressure around my nose and I've been coughing lightly."}
+{"output_text": "fever", "input_text": "The heat in my body won’t go away, and my muscles ache."}
+{"output_text": "common cold", "input_text": "I feel stuffy and my throat is scratchy."}
+{"output_text": "fever", "input_text": "I have chills, headaches, and feel very warm."}
+{"output_text": "common cold", "input_text": "My cough is dry and my nose keeps leaking."}
+{"output_text": "fever", "input_text": "I feel hot all the time and have body aches."}
+{"output_text": "common cold", "input_text": "I have mild congestion and constant sneezing."}
+{"output_text": "fever", "input_text": "My body feels overheated and weak."}
+{"output_text": "common cold", "input_text": "My nose is blocked and I have slight coughing."}
+{"output_text": "fever", "input_text": "I feel extremely warm and can’t stop shivering."}
+{"output_text": "common cold", "input_text": "I have a sore throat and my nose is runny."}
+{"output_text": "fever", "input_text": "My forehead feels hot and I feel exhausted."}
+{"output_text": "common cold", "input_text": "I feel pressure in my sinuses and keep sneezing."}
+{"output_text": "fever", "input_text": "I am sweating a lot and my head feels heavy."}
+{"output_text": "common cold", "input_text": "My cough is mild but my throat feels irritated."}
+{"output_text": "fever", "input_text": "I feel hot, tired, and have chills coming and going."}
+{"output_text": "common cold", "input_text": "I have nasal congestion and a slight headache."}
+{"output_text": "fever", "input_text": "I have a high temperature and feel body pain."}
+{"output_text": "common cold", "input_text": "I can’t breathe clearly through my nose and have watery eyes."}
+{"output_text": "fever", "input_text": "My body feels very warm and I keep feeling weak."}
+{"output_text": "common cold", "input_text": "I am coughing lightly and sneezing frequently."}
+{"output_text": "fever", "input_text": "My temperature is up and I feel chills and heaviness."}
+{"output_text": "common cold", "input_text": "I have a runny nose and my throat is scratchy."}
+{"output_text": "fever", "input_text": "I’m sweating even without activity and feel extremely tired."}
+{"output_text": "common cold", "input_text": "My throat hurts a little and I can't stop sneezing."}
+{"output_text": "fever", "input_text": "My body feels warm and I keep shivering on and off."}
+{"output_text": "common cold", "input_text": "I have a stuffy nose and slight cough with fatigue."}
+{"output_text": "fever", "input_text": "I feel hot and weak with chills."}
+{"output_text": "common cold", "input_text": "My head feels heavy and my nose is blocked."}
+{"output_text": "fever", "input_text": "I feel overheated and my muscles are sore."}
+{"output_text": "common cold", "input_text": "I keep sneezing and my throat is dry."}
+{"output_text": "fever", "input_text": "My whole body feels heated and I have chills."}
+{"output_text": "common cold", "input_text": "I have slight coughing and congestion."}
+{"output_text": "fever", "input_text": "I feel hot, dizzy, and sweaty."}
+{"output_text": "common cold", "input_text": "My eyes are watery and my nose feels irritated."}
+{"output_text": "fever", "input_text": "I have a high temperature and feel drained."}
+{"output_text": "common cold", "input_text": "I feel sinus pressure and mild throat discomfort."}
+{"output_text": "fever", "input_text": "I feel warm, weak, and have headaches."}
+{"output_text": "common cold", "input_text": "My nose is runny and I have a slight cough."}
+{"output_text": "fever", "input_text": "I feel very warm and I keep getting chills."}
+{"output_text": "common cold", "input_text": "I have minor congestion and frequent sneezing."}
+{"output_text": "fever", "input_text": "I have a feverish feeling with body ache and tiredness."}
+{"output_text": "common cold", "input_text": "My throat is itchy and my nose keeps dripping."}
+{"output_text": "fever", "input_text": "My skin feels hot and I have chills with weakness."}
+{"output_text": "allergy", "input_text": "My eyes won't stop watering and my nose keeps running whenever I'm near dust."}
+{"output_text": "allergy", "input_text": "I start sneezing uncontrollably and my nose gets itchy whenever I go outside."}
+{"output_text": "allergy", "input_text": "My throat feels itchy and I get a runny nose when I'm around cats."}
+{"output_text": "allergy", "input_text": "My skin becomes red and itchy after touching certain plants."}
+{"output_text": "allergy", "input_text": "I keep sneezing and my nose gets congested when I clean my room."}
+{"output_text": "allergy", "input_text": "I get itchy eyes and a scratchy throat around flowers."}
+{"output_text": "allergy", "input_text": "My skin develops small red bumps whenever I eat peanuts."}
+{"output_text": "allergy", "input_text": "My face gets swollen and itchy after eating shellfish."}
+{"output_text": "allergy", "input_text": "I start coughing and my eyes water when I'm exposed to pollen."}
+{"output_text": "allergy", "input_text": "My lips tingle and my throat feels irritated after I eat strawberries."}
+{"output_text": "allergy", "input_text": "I can’t stop sneezing and my nose gets blocked when I'm around pets."}
+{"output_text": "allergy", "input_text": "My skin becomes irritated and red after wearing certain fabrics."}
+{"output_text": "allergy", "input_text": "My eyes get swollen and itchy when I go near grass."}
+{"output_text": "allergy", "input_text": "I have constant sneezing and watery eyes every morning."}
+{"output_text": "allergy", "input_text": "My throat gets itchy and I get hives when I eat eggs."}
+{"output_text": "allergy", "input_text": "I develop red patches on my skin after using scented soaps."}
+{"output_text": "allergy", "input_text": "My nose gets extremely itchy and congested during spring."}
+{"output_text": "allergy", "input_text": "I am sneezing constantly and my eyes burn whenever I'm around dust mites."}
+{"output_text": "allergy", "input_text": "My hands get red and irritated after washing dishes with certain detergents."}
+{"output_text": "allergy", "input_text": "I get hives and mild swelling after eating almonds."}
+{"output_text": "allergy", "input_text": "My nose runs nonstop when I visit my friend's house with dogs."}
+{"output_text": "allergy", "input_text": "I get itchy bumps on my arms after mowing the lawn."}
+{"output_text": "allergy", "input_text": "My eyes swell and get watery when I use certain makeup products."}
+{"output_text": "allergy", "input_text": "I start coughing and my nose gets blocked around cigarette smoke."}
+{"output_text": "allergy", "input_text": "My skin gets dry, red, and itchy after wearing wool sweaters."}
+{"output_text": "allergy", "input_text": "I feel an itchy throat and sneezing bouts near moldy areas."}
+{"output_text": "allergy", "input_text": "I get irritated eyes and a runny nose when I walk by freshly cut grass."}
+{"output_text": "allergy", "input_text": "My lips swell slightly after drinking milk."}
+{"output_text": "allergy", "input_text": "I get itchy hives when I touch latex gloves."}
+{"output_text": "allergy", "input_text": "My nose becomes stuffy and my eyes itch around feather pillows."}
+{"output_text": "allergy", "input_text": "I sneeze repeatedly and feel congestion when I'm exposed to perfumes."}
+{"output_text": "allergy", "input_text": "My skin becomes red and irritated after using certain laundry detergents."}
+{"output_text": "allergy", "input_text": "I get watery eyes and itchy skin when near cats or dogs."}
+{"output_text": "allergy", "input_text": "I experience sneezing fits whenever I enter old dusty rooms."}
+{"output_text": "allergy", "input_text": "My throat tickles and I cough when I use strong cleaning sprays."}
+{"output_text": "allergy", "input_text": "I break out in tiny bumps after eating kiwi."}
+{"output_text": "allergy", "input_text": "I feel nasal congestion and itchy eyes around ragweed pollen."}
+{"output_text": "allergy", "input_text": "My fingertips swell and itch after touching certain fruits."}
+{"output_text": "allergy", "input_text": "I get hives when my skin comes in contact with cold temperatures."}
+{"output_text": "allergy", "input_text": "My breathing becomes tight and my eyes water when around strong fragrances."}
+{"output_text": "allergy", "input_text": "I develop itchy red spots after wearing costume jewelry."}
+{"output_text": "allergy", "input_text": "My eyes become irritated and swollen after being in dusty basements."}
+{"output_text": "allergy", "input_text": "I get sneezing and a runny nose whenever I open old books."}
+{"output_text": "allergy", "input_text": "My lips feel numb and itchy after eating mango skin."}
+{"output_text": "allergy", "input_text": "I experience itching and red marks when bitten by mosquitoes."}
+{"output_text": "allergy", "input_text": "I sneeze and cough when the air is filled with pollen."}
+{"output_text": "allergy", "input_text": "My cheeks get red and itchy after drinking certain juices."}
+{"output_text": "allergy", "input_text": "I get nasal congestion and itchy eyes while cleaning dusty areas."}
+{"output_text": "allergy", "input_text": "My skin breaks out in red patches when exposed to the sun."}
+{"output_text": "allergy", "input_text": "I get watery eyes and start sneezing when sweeping the floor."}
+{"output_text": "allergy", "input_text": "I feel itchy skin and red marks after touching grass."}
+{"output_text": "allergy", "input_text": "I get a tight throat and mild swelling after eating shrimp."}
+{"output_text": "allergy", "input_text": "I develop red, itchy hands when I use cheap metal accessories."}
+{"output_text": "allergy", "input_text": "I sneeze often and my nose runs near farm animals."}
+{"output_text": "allergy", "input_text": "My throat and lips tingle after eating chocolate."}
+{"output_text": "allergy", "input_text": "My eyes itch and turn red when I ride with car windows down in spring."}
+{"output_text": "allergy", "input_text": "I get red, warm bumps on my arms after exposure to cold wind."}
+{"output_text": "allergy", "input_text": "My nose runs constantly and I sneeze near carpets."}
+{"output_text": "allergy", "input_text": "I get hives on my neck after spraying deodorant."}
+{"output_text": "allergy", "input_text": "My eyes itch and get watery after touching my dog."}
+{"output_text": "allergy", "input_text": "I start coughing and sneezing around strong paint fumes."}
+{"output_text": "allergy", "input_text": "I feel my throat get itchy after eating bananas."}
+{"output_text": "allergy", "input_text": "My skin becomes irritated after wearing rubber bands."}
+{"output_text": "allergy", "input_text": "My nose becomes blocked and I start sneezing in old houses."}
+{"output_text": "allergy", "input_text": "My lips swell a little after eating pineapple."}
+{"output_text": "allergy", "input_text": "My eyes burn and tear up after using hair spray."}
+{"output_text": "allergy", "input_text": "I break out in hives after drinking soy milk."}
+{"output_text": "allergy", "input_text": "I sneeze frequently and my nose runs during windy days."}
+{"output_text": "allergy", "input_text": "My hands itch when I touch cardboard boxes."}
+{"output_text": "allergy", "input_text": "I get bumps and redness after touching cleaning wipes."}
+{"output_text": "allergy", "input_text": "My throat feels tight and itchy after eating tree nuts."}
+{"output_text": "allergy", "input_text": "I have watery eyes and sneeze when exposed to mold."}
+{"output_text": "allergy", "input_text": "My cheeks itch and get red after wearing makeup foundation."}
+{"output_text": "allergy", "input_text": "I feel my nose get stuffy in rooms with air fresheners."}
+{"output_text": "allergy", "input_text": "I get a rash on my neck after wearing new clothes without washing them."}
+{"output_text": "allergy", "input_text": "My arms itch after touching cardboard and paper boxes."}
+{"output_text": "allergy", "input_text": "I sneeze uncontrollably when I open windows during spring."}
+{"output_text": "allergy", "input_text": "My throat tickles and I get a runny nose near hay or straw."}
+{"output_text": "allergy", "input_text": "I get redness and itching when touching scented candles."}
+{"output_text": "allergy", "input_text": "My eyelids swell slightly after using new eye cream."}
+{"output_text": "allergy", "input_text": "I get small red bumps after eating tomatoes."}
+{"output_text": "allergy", "input_text": "I sneeze and cough around dusty curtains."}
+{"output_text": "allergy", "input_text": "My lips tingle after eating citrus fruits."}
+{"output_text": "allergy", "input_text": "My skin gets irritated after being in chlorinated pools."}
+{"output_text": "allergy", "input_text": "I get stuffy nose and itchy eyes in rooms with carpets."}
+{"output_text": "allergy", "input_text": "I experience redness and swelling after touching nickel jewelry."}
+{"output_text": "allergy", "input_text": "My nose runs and eyes itch when I'm around horses."}
+{"output_text": "allergy", "input_text": "I get small itchy bumps after eating wheat products."}
+{"output_text": "allergy", "input_text": "I start sneezing and coughing when I smell strong incense."}
+{"output_text": "allergy", "input_text": "My eyes water and my nose becomes runny near moldy smells."}
+{"output_text": "allergy", "input_text": "My face becomes itchy after using sunscreen."}
+{"output_text": "food poisoning", "input_text": "I started vomiting a few hours after eating and my stomach feels extremely upset."}
+{"output_text": "food poisoning", "input_text": "I have severe nausea and diarrhea after eating leftover food."}
+{"output_text": "food poisoning", "input_text": "My stomach is cramping badly and I feel like throwing up constantly."}
+{"output_text": "food poisoning", "input_text": "I have watery diarrhea and a lot of abdominal pain since last night’s meal."}
+{"output_text": "food poisoning", "input_text": "I feel dizzy and have been vomiting non-stop after eating outside."}
+{"output_text": "food poisoning", "input_text": "My stomach is bloated and I feel sudden nausea after eating spoiled food."}
+{"output_text": "food poisoning", "input_text": "I have chills, diarrhea, and sharp stomach cramps after lunch."}
+{"output_text": "food poisoning", "input_text": "I threw up several times and now have a fever after eating seafood."}
+{"output_text": "food poisoning", "input_text": "My stomach hurts badly and I feel extremely nauseous."}
+{"output_text": "food poisoning", "input_text": "I have been running to the bathroom with diarrhea since I ate that chicken."}
+{"output_text": "food poisoning", "input_text": "I feel weak, nauseous, and dehydrated from repeated vomiting."}
+{"output_text": "food poisoning", "input_text": "My stomach is churning and I feel like I'm going to throw up every few minutes."}
+{"output_text": "food poisoning", "input_text": "I have stomach cramps and diarrhea after eating at a restaurant."}
+{"output_text": "food poisoning", "input_text": "I feel lightheaded and nauseous and have vomited twice since dinner."}
+{"output_text": "food poisoning", "input_text": "I have a sudden fever, vomiting, and diarrhea after eating outside food."}
+{"output_text": "food poisoning", "input_text": "My stomach feels tight and painful with constant nausea."}
+{"output_text": "food poisoning", "input_text": "I feel extremely sick to my stomach and can’t stop going to the bathroom."}
+{"output_text": "food poisoning", "input_text": "I have a headache, nausea, and explosive diarrhea after lunch."}
+{"output_text": "food poisoning", "input_text": "I can't keep anything down and feel very dehydrated."}
+{"output_text": "food poisoning", "input_text": "I woke up vomiting and have intense stomach pain after last night’s meal."}
+{"output_text": "food poisoning", "input_text": "My stomach feels twisted and I have diarrhea since the morning."}
+{"output_text": "food poisoning", "input_text": "I feel fatigued and have vomited several times after eating street food."}
+{"output_text": "food poisoning", "input_text": "My abdomen is hurting badly and I'm experiencing nausea and chills."}
+{"output_text": "food poisoning", "input_text": "I feel sudden nausea and stomach cramps after drinking milk."}
+{"output_text": "food poisoning", "input_text": "I have loose stools and stomach tightening after eating sushi."}
+{"output_text": "food poisoning", "input_text": "My stomach feels sour, and I've been vomiting for hours."}
+{"output_text": "food poisoning", "input_text": "I feel shaky, nauseous, and lightheaded after eating leftovers."}
+{"output_text": "food poisoning", "input_text": "I have diarrhea and stomach pressure after eating undercooked meat."}
+{"output_text": "food poisoning", "input_text": "I feel extreme discomfort in my stomach and keep burping with nausea."}
+{"output_text": "food poisoning", "input_text": "I have sharp, twisting stomach pains and watery stools."}
+{"output_text": "food poisoning", "input_text": "I suddenly felt sick after eating salad and started vomiting."}
+{"output_text": "food poisoning", "input_text": "My stomach feels gassy, bloated, and very painful."}
+{"output_text": "food poisoning", "input_text": "I have uncontrollable diarrhea and sudden nausea after lunch."}
+{"output_text": "food poisoning", "input_text": "I feel chills and weakness along with stomach discomfort."}
+{"output_text": "food poisoning", "input_text": "I can't stop vomiting and feel extremely weak."}
+{"output_text": "food poisoning", "input_text": "I have severe nausea and stomach spasms."}
+{"output_text": "food poisoning", "input_text": "I feel burning in my stomach and have diarrhea since morning."}
+{"output_text": "food poisoning", "input_text": "I felt fine until I ate breakfast, then suddenly got nausea and diarrhea."}
+{"output_text": "food poisoning", "input_text": "My stomach is aching and I have been vomiting since last night."}
+{"output_text": "food poisoning", "input_text": "I have frequent bowel movements and stomach cramps after eating fast food."}
+{"output_text": "food poisoning", "input_text": "I feel exhausted and dehydrated after repeated vomiting."}
+{"output_text": "food poisoning", "input_text": "I feel nauseous and my stomach feels extremely sensitive to touch."}
+{"output_text": "food poisoning", "input_text": "I have diarrhea and my stomach makes loud noises constantly."}
+{"output_text": "food poisoning", "input_text": "I feel sudden vomiting and weakness after eating rice."}
+{"output_text": "food poisoning", "input_text": "My stomach flips constantly and I feel faint."}
+{"output_text": "food poisoning", "input_text": "I have chills and abdominal pain after eating something oily."}
+{"output_text": "food poisoning", "input_text": "I feel weak and nauseous, with constant burping."}
+{"output_text": "food poisoning", "input_text": "I vomited twice and now have loose stools after taking a meal outside."}
+{"output_text": "food poisoning", "input_text": "My stomach feels heavy and painful, and I keep feeling like throwing up."}
+{"output_text": "food poisoning", "input_text": "I have diarrhea and nausea that started suddenly after dinner."}
+{"output_text": "food poisoning", "input_text": "My stomach is bloated and I feel severe discomfort."}
+{"output_text": "food poisoning", "input_text": "I feel sick and feverish along with vomiting episodes."}
+{"output_text": "food poisoning", "input_text": "My stomach is churning and I have watery diarrhea."}
+{"output_text": "food poisoning", "input_text": "I have sudden cramps and nausea after drinking juice."}
+{"output_text": "food poisoning", "input_text": "My stomach hurts and I feel extremely weak after vomiting."}
+{"output_text": "food poisoning", "input_text": "I feel dizzy, nauseous, and have loose motions."}
+{"output_text": "food poisoning", "input_text": "My stomach feels upset and I’m burping sour liquid."}
+{"output_text": "food poisoning", "input_text": "I have painful gas, bloating, and diarrhea."}
+{"output_text": "food poisoning", "input_text": "My stomach feels like it’s burning and I vomited twice."}
+{"output_text": "food poisoning", "input_text": "I have watery stools and stomach cramps after eating eggs."}
+{"output_text": "food poisoning", "input_text": "I feel nausea, chills, and weakness after eating out."}
+{"output_text": "food poisoning", "input_text": "I threw up everything I ate and feel extremely dehydrated."}
+{"output_text": "food poisoning", "input_text": "My stomach aches and I feel like I'm about to faint."}
+{"output_text": "food poisoning", "input_text": "My digestive system feels upset and I’m having severe diarrhea."}
+{"output_text": "food poisoning", "input_text": "I have stomach cramps and constant nausea after a meal."}
+{"output_text": "food poisoning", "input_text": "My stomach feels unsettled and I keep gagging."}
+{"output_text": "food poisoning", "input_text": "I have cramps and loose stools after eating spicy food."}
+{"output_text": "food poisoning", "input_text": "I feel nauseous and uncomfortable with stomach tightness."}
+{"output_text": "food poisoning", "input_text": "I threw up multiple times and have ongoing abdominal discomfort."}
+{"output_text": "food poisoning", "input_text": "My stomach feels sick and I can’t keep liquids down."}
+{"output_text": "food poisoning", "input_text": "I feel constant nausea and sharp belly pain."}
+{"output_text": "food poisoning", "input_text": "I have vomiting and stomach cramps that started suddenly."}
+{"output_text": "food poisoning", "input_text": "I feel dizzy and nauseous after eating questionable food."}
+{"output_text": "food poisoning", "input_text": "My stomach feels bloated and painful with repeated diarrhea."}
+{"output_text": "food poisoning", "input_text": "I have chills, vomiting, and severe gut discomfort."}
+{"output_text": "food poisoning", "input_text": "I have cramps and nausea after eating cold food from the fridge."}
+{"output_text": "food poisoning", "input_text": "My stomach feels extremely tight, and I have diarrhea and vomiting."}
+{"output_text": "food poisoning", "input_text": "I feel sick to my stomach and very weak after eating salad."}
+{"output_text": "food poisoning", "input_text": "I have nausea, stomach soreness, and loose stools after a meal."}
+{"output_text": "food poisoning", "input_text": "I feel cold, sweaty, and nauseous with stomach pain."}
+{"output_text": "food poisoning", "input_text": "My stomach feels gurgly and I threw up twice."}
+{"output_text": "food poisoning", "input_text": "I have diarrhea and stomach tightening after drinking milkshake."}
+{"output_text": "food poisoning", "input_text": "I feel nausea and my stomach feels too sensitive."}
+{"output_text": "food poisoning", "input_text": "I keep vomiting and feel lightheaded."}
+{"output_text": "food poisoning", "input_text": "My stomach cramps worsen every time I try to eat something."}
+{"output_text": "food poisoning", "input_text": "I have watery diarrhea and nausea after eating seafood."}
+{"output_text": "food poisoning", "input_text": "My stomach growls painfully and I feel sick."}
+{"output_text": "food poisoning", "input_text": "I’ve been vomiting with stomach twist-like pain."}
+{"output_text": "food poisoning", "input_text": "I have a headache, nausea, and diarrhea."}
+{"output_text": "food poisoning", "input_text": "My stomach feels spoiled and I keep running to the toilet."}
+{"output_text": "food poisoning", "input_text": "I feel heat in my stomach along with nausea and weakness."}
+{"output_text": "food poisoning", "input_text": "My abdomen hurts sharply and I vomited earlier."}
+{"output_text": "food poisoning", "input_text": "I feel like my food isn't digesting and I’m nauseous."}
+{"output_text": "food poisoning", "input_text": "I have vomiting, loose stools, and severe stomach cramps."}
+{"output_text": "migraine", "input_text": "I have a throbbing pain on one side of my head and bright lights make it worse."}
+{"output_text": "strep throat", "input_text": "My throat hurts a lot, especially when swallowing, and I have white patches in the back."}
+{"output_text": "flu", "input_text": "I suddenly developed a fever, chills, body aches, and fatigue."}
+{"output_text": "allergy", "input_text": "My eyes are itchy and watery, and I keep sneezing after being outdoors."}
+{"output_text": "food poisoning", "input_text": "I feel nauseous and have diarrhea after eating some questionable food."}
+{"output_text": "sinus infection", "input_text": "I have facial pressure around my eyes and thick yellow nasal mucus."}
+{"output_text": "UTI", "input_text": "It burns when I pee and I feel the urge to go constantly."}
+{"output_text": "bronchitis", "input_text": "I have a persistent cough with thick mucus and chest discomfort."}
+{"output_text": "appendicitis", "input_text": "My lower right abdomen hurts badly and the pain gets worse when I move."}
+{"output_text": "gastritis", "input_text": "I feel a burning sensation in my upper stomach, especially after eating."}
+{"output_text": "covid", "input_text": "I lost my sense of smell and taste and have a dry cough."}
+{"output_text": "asthma", "input_text": "I feel tightness in my chest and wheeze when breathing."}
+{"output_text": "anxiety", "input_text": "My heart races suddenly and I feel shaky and worried for no reason."}
+{"output_text": "dehydration", "input_text": "I feel dizzy, my mouth is dry, and my urine is very dark."}
+{"output_text": "pneumonia", "input_text": "I have a high fever and coughing makes my chest hurt deeply."}
+{"output_text": "ear infection", "input_text": "My ear aches and I hear muffled sounds when I swallow."}
+{"output_text": "pink eye", "input_text": "One of my eyes is red, itchy, and producing yellow discharge."}
+{"output_text": "migraine", "input_text": "My headache comes with nausea and sensitivity to sound."}
+{"output_text": "cold", "input_text": "I have a runny nose, mild cough, and a scratchy throat."}
+{"output_text": "flu", "input_text": "I feel exhausted with a sudden fever and body aches everywhere."}
+{"output_text": "acid reflux", "input_text": "I feel burning in my chest after eating and sometimes food comes back up."}
+{"output_text": "gallstones", "input_text": "I feel sharp pain in the upper right side of my abdomen after eating fatty food."}
+{"output_text": "kidney stone", "input_text": "I have severe pain in my lower back that comes in waves."}
+{"output_text": "mono", "input_text": "I feel extremely tired and my throat is very swollen."}
+{"output_text": "whooping cough", "input_text": "My cough fits are so strong I sometimes can't catch my breath."}
+{"output_text": "gastric flu", "input_text": "I have vomiting, stomach cramps, and mild fever."}
+{"output_text": "sinusitis", "input_text": "My face feels heavy and my nasal passages are completely blocked."}
+{"output_text": "migraine", "input_text": "Bright lights trigger intense, pulsing headaches."}
+{"output_text": "allergy", "input_text": "My nose won’t stop running and my eyes itch after being around dust."}
+{"output_text": "eczema", "input_text": "I have dry, itchy patches of skin that flare up randomly."}
+{"output_text": "bronchitis", "input_text": "My chest feels tight and I cough up yellow mucus every morning."}
+{"output_text": "tonsillitis", "input_text": "My tonsils look swollen and it hurts to swallow even water."}
+{"output_text": "anemia", "input_text": "I feel tired all day and get dizzy when I stand up."}
+{"output_text": "UTI", "input_text": "I feel constant pelvic pressure and it burns each time I urinate."}
+{"output_text": "gastritis", "input_text": "My stomach feels irritated and I get nauseous after eating."}
+{"output_text": "common cold", "input_text": "My throat is scratchy and I keep sneezing all morning."}
+{"output_text": "covid", "input_text": "I have a persistent dry cough and no sense of taste."}
+{"output_text": "pneumonia", "input_text": "Breathing deeply hurts and I have a fever with chills."}
+{"output_text": "heartburn", "input_text": "A burning feeling rises from my stomach into my chest."}
+{"output_text": "food allergy", "input_text": "My lips started swelling and I broke out in hives after eating nuts."}
+{"output_text": "viral fever", "input_text": "I have a high fever and feel weak with no appetite."}
+{"output_text": "migraine", "input_text": "I see flashing lights before a severe one-sided headache starts."}
+{"output_text": "stomach virus", "input_text": "I’ve been vomiting and my stomach cramps come and go."}
+{"output_text": "sinus infection", "input_text": "My forehead hurts and bending down increases the pressure."}
+{"output_text": "athlete foot", "input_text": "My foot skin is itchy, peeling, and smells unusual."}
+{"output_text": "dermatitis", "input_text": "I have an itchy rash that worsens when I scratch it."}
+{"output_text": "flu", "input_text": "I have chills, a sore throat, and a sudden spike in temperature."}
+{"output_text": "cold", "input_text": "My nose is blocked and I have a mild cough."}
+{"output_text": "appendicitis", "input_text": "I feel sharp pain in the lower right abdomen that gets worse over time."}
+{"output_text": "gas", "input_text": "My stomach feels bloated and I have uncomfortable pressure."}
+{"output_text": "acid reflux", "input_text": "I get a burning taste in my throat after meals."}
+{"output_text": "pneumonia", "input_text": "I have difficulty breathing and a persistent fever."}
+{"output_text": "ear infection", "input_text": "My ear feels full and painful inside."}
+{"output_text": "bronchitis", "input_text": "I have a deep cough that won’t go away."}
+{"output_text": "allergy", "input_text": "My skin broke out in itchy bumps after playing in the grass."}
+{"output_text": "migraine", "input_text": "My headache throbs in sync with my heartbeat."}
+{"output_text": "covid", "input_text": "My throat hurts and I can’t smell anything."}
+{"output_text": "flu", "input_text": "I feel weak, have a fever, and can barely get out of bed."}
+{"output_text": "strep throat", "input_text": "My throat is extremely sore and I have a headache."}
+{"output_text": "conjunctivitis", "input_text": "My eye is red and sticky when I wake up."}
+{"output_text": "food poisoning", "input_text": "I feel nauseous and my stomach hurts after eating leftovers."}
+{"output_text": "gastritis", "input_text": "My stomach burns and I get full very quickly."}
+{"output_text": "UTI", "input_text": "My lower abdomen aches and I need to pee constantly."}
+{"output_text": "sinusitis", "input_text": "I feel pressure behind my eyes and my nose is clogged."}
+{"output_text": "mono", "input_text": "I feel extremely tired and my lymph nodes are swollen."}
+{"output_text": "cold", "input_text": "I have a runny nose and a small cough."}
+{"output_text": "flu", "input_text": "My entire body aches and I have chills and fever."}
+{"output_text": "dehydration", "input_text": "I feel extremely thirsty and lightheaded."}
+{"output_text": "migraine", "input_text": "My headache worsens with movement and noise."}
+{"output_text": "allergy", "input_text": "My nose is itchy and I can’t stop sneezing."}
+{"output_text": "bronchitis", "input_text": "I cough up thick phlegm every morning."}
+{"output_text": "pink eye", "input_text": "My eye is red and irritated with constant tearing."}
+{"output_text": "gastritis", "input_text": "I get nauseous whenever I drink coffee."}
+{"output_text": "acid reflux", "input_text": "I taste acid in my mouth when I burp."}
+{"output_text": "food poisoning", "input_text": "My stomach cramps are severe and I keep vomiting."}
+{"output_text": "UTI", "input_text": "My urine smells strong and it hurts to go."}
+{"output_text": "sinus infection", "input_text": "My cheeks hurt and my nose is blocked with thick discharge."}
+{"output_text": "covid", "input_text": "I feel feverish and have a tight chest with a dry cough."}
+{"output_text": "cold", "input_text": "I have mild throat irritation and watery eyes."}
+{"output_text": "flu", "input_text": "I feel hot, achy, and extremely weak."}
+{"output_text": "dermatitis", "input_text": "My skin is red, dry, and flaky."}
+{"output_text": "allergy", "input_text": "My eyes water uncontrollably whenever I’m around cats."}
+{"output_text": "migraine", "input_text": "A pulsating headache forces me to lie down in a dark room."}
+{"output_text": "bronchitis", "input_text": "My cough is deep and painful with wheezing sounds."}
+{"output_text": "food poisoning", "input_text": "I threw up multiple times and have watery diarrhea."}
+{"output_text": "gastritis", "input_text": "I feel discomfort in my upper stomach when I’m stressed."}
+{"output_text": "flu", "input_text": "I’m shivering with fever and my head hurts badly."}
+{"output_text": "cold", "input_text": "I keep blowing my nose and feel a bit tired."}
+{"output_text": "strep throat", "input_text": "My throat is red and painful with swollen glands."}
+{"output_text": "sinus infection", "input_text": "I have thick green mucus and pressure in the nose area."}
+{"output_text": "migraine", "input_text": "I feel nauseous and sensitive to sound during the headache."}
+{"output_text": "allergy", "input_text": "My skin feels itchy and I developed small red patches."}
+{"output_text": "UTI", "input_text": "I feel sharp pain while urinating and constant pressure."}
+{"output_text": "covid", "input_text": "I’m coughing nonstop and feel unusually tired."}
+{"output_text": "gastric flu", "input_text": "I have vomiting and watery diarrhea with mild fever."}
+{"output_text": "asthma", "input_text": "I wheeze and feel breathless when I try to exercise."}
+{"output_text": "flu", "input_text": "I have a sudden high fever, chills, and my whole body feels sore."}
+{"output_text": "common cold", "input_text": "My nose won’t stop running and my throat feels scratchy."}
+{"output_text": "strep throat", "input_text": "My throat hurts badly and I see white spots on my tonsils."}
+{"output_text": "migraine", "input_text": "My head is pounding and bright lights make it unbearable."}
+{"output_text": "gastritis", "input_text": "I get stomach burning after meals and feel nauseous frequently."}
+{"output_text": "food poisoning", "input_text": "I started vomiting and having diarrhea a few hours after eating out."}
+{"output_text": "sinusitis", "input_text": "The pressure behind my forehead is intense and my nose is stuffed."}
+{"output_text": "bronchitis", "input_text": "I have a deep cough with thick yellow mucus every morning."}
+{"output_text": "UTI", "input_text": "It stings when I pee and I feel like I have to go constantly."}
+{"output_text": "viral fever", "input_text": "I feel weak, have chills, and my temperature keeps rising."}
+{"output_text": "anxiety", "input_text": "My heart starts racing randomly and I feel uneasy."}
+{"output_text": "acid reflux", "input_text": "I get a burning sensation in my chest after I lie down."}
+{"output_text": "ear infection", "input_text": "My ear hurts inside and sounds feel muffled."}
+{"output_text": "pink eye", "input_text": "My eye is irritated and sticky with yellow discharge."}
+{"output_text": "mono", "input_text": "I feel extremely exhausted and my throat is swollen."}
+{"output_text": "covid", "input_text": "I lost my sense of smell and I have a dry cough."}
+{"output_text": "pneumonia", "input_text": "My chest hurts when breathing deeply and I have a fever."}
+{"output_text": "allergy", "input_text": "My nose is itchy and I sneeze nonstop around pollen."}
+{"output_text": "eczema", "input_text": "My skin is red, dry, and itchy in patches."}
+{"output_text": "asthma", "input_text": "My chest feels tight and I wheeze when breathing."}
+{"output_text": "gastroenteritis", "input_text": "I have diarrhea and stomach cramps with mild fever."}
+{"output_text": "dermatitis", "input_text": "My skin has red, inflamed patches that get worse if touched."}
+{"output_text": "tonsillitis", "input_text": "My tonsils are swollen and it hurts a lot to swallow."}
+{"output_text": "dehydration", "input_text": "I feel dizzy and my mouth is really dry."}
+{"output_text": "conjunctivitis", "input_text": "My eyes are red, itchy, and glued shut in the morning."}
+{"output_text": "sinus infection", "input_text": "My cheeks hurt and I have thick green mucus."}
+{"output_text": "food allergy", "input_text": "I developed hives and itching after eating shrimp."}
+{"output_text": "gas", "input_text": "My stomach feels bloated and I burp a lot."}
+{"output_text": "migraine", "input_text": "I see zigzag lines before a severe headache starts."}
+{"output_text": "cold", "input_text": "My nose is blocked and I keep sneezing all day."}
+{"output_text": "flu", "input_text": "My temperature shot up and I feel too weak to move."}
+{"output_text": "heartburn", "input_text": "I feel a burning sensation rising from my stomach to my chest."}
+{"output_text": "UTI", "input_text": "I feel pelvic pressure and my urine smells strong."}
+{"output_text": "gastritis", "input_text": "I feel nauseous and my upper stomach burns after eating spicy food."}
+{"output_text": "bronchitis", "input_text": "I cough non-stop and have a heavy feeling in my chest."}
+{"output_text": "viral cold", "input_text": "My throat is sore and I have a stuffy nose."}
+{"output_text": "strep throat", "input_text": "My throat pain is sharp and my lymph nodes are swollen."}
+{"output_text": "migraine", "input_text": "My headache comes with nausea and sound sensitivity."}
+{"output_text": "eczema", "input_text": "My arms have dry patches that itch constantly."}
+{"output_text": "dermatitis", "input_text": "My skin becomes red and irritated after using new soap."}
+{"output_text": "dehydration", "input_text": "I feel weak, thirsty, and my urine is very dark."}
+{"output_text": "flu", "input_text": "I have chills, a fever, and pain in every muscle."}
+{"output_text": "cold", "input_text": "My throat feels scratchy and my nose is dripping."}
+{"output_text": "pneumonia", "input_text": "I cough heavily and my breathing feels difficult."}
+{"output_text": "covid", "input_text": "I have fatigue, dry cough, and no sense of taste."}
+{"output_text": "gastritis", "input_text": "I feel nausea every morning and my stomach burns."}
+{"output_text": "food poisoning", "input_text": "I have vomiting, cramps, and watery diarrhea."}
+{"output_text": "anxiety", "input_text": "I feel breathless and shaky when stressed."}
+{"output_text": "sinusitis", "input_text": "My eyes hurt and bending down hurts more."}
+{"output_text": "UTI", "input_text": "I pee small amounts and it hurts each time."}
+{"output_text": "tonsillitis", "input_text": "My throat looks red with white patches on it."}
+{"output_text": "bronchitis", "input_text": "I cough up phlegm and feel chest tightness."}
+{"output_text": "pink eye", "input_text": "One eye is red, itchy, and watery all day."}
+{"output_text": "migraine", "input_text": "I feel pounding pain behind one eye."}
+{"output_text": "cold", "input_text": "I'm congested and sneezing repeatedly."}
+{"output_text": "flu", "input_text": "I feel chills, feverish, and extremely tired."}
+{"output_text": "acid reflux", "input_text": "I get a sour taste in my mouth after eating."}
+{"output_text": "dehydration", "input_text": "I feel faint and my lips are very dry."}
+{"output_text": "eczema", "input_text": "My skin flares up with red, itchy patches."}
+{"output_text": "allergy", "input_text": "My nose gets stuffy and my eyes itch around flowers."}
+{"output_text": "strep throat", "input_text": "My throat is painful and swallowing feels sharp."}
+{"output_text": "food poisoning", "input_text": "I suddenly got nausea and stomach cramps."}
+{"output_text": "gastritis", "input_text": "I get a burning sensation in my stomach after eating quickly."}
+{"output_text": "covid", "input_text": "I have chest tightness and fatigue with loss of smell."}
+{"output_text": "viral fever", "input_text": "I feel weak, have fever, and no appetite."}
+{"output_text": "mono", "input_text": "I feel unusually tired and my glands feel swollen."}
+{"output_text": "anxiety", "input_text": "My chest feels tight and I feel restless."}
+{"output_text": "bronchitis", "input_text": "My cough is wet and persistent with chest discomfort."}
+{"output_text": "sinus infection", "input_text": "My nose is clogged and my face feels heavy."}
+{"output_text": "food allergy", "input_text": "My lips swelled and I developed hives after eating peanuts."}
+{"output_text": "flu", "input_text": "I have fever, headache, and chills."}
+{"output_text": "cold", "input_text": "My nose is dripping and my throat is scratchy."}
+{"output_text": "migraine", "input_text": "I feel pulsating pain and nausea during my headache."}
+{"output_text": "strep throat", "input_text": "I can't swallow without severe pain."}
+{"output_text": "eczema", "input_text": "My skin is flaky and itches intensely during flare-ups."}
+{"output_text": "UTI", "input_text": "My lower belly aches and I need to pee constantly."}
+{"output_text": "dehydration", "input_text": "I’m very thirsty and feel dizzy standing up."}
+{"output_text": "tonsillitis", "input_text": "My tonsils feel swollen and painful while speaking."}
+{"output_text": "gastritis", "input_text": "My stomach feels irritated and sore after meals."}
+{"output_text": "pneumonia", "input_text": "I have trouble breathing and coughing hurts deeply."}
+{"output_text": "covid", "input_text": "I have a sore throat and a persistent dry cough."}
+{"output_text": "dermatitis", "input_text": "My skin reacts with redness after certain lotions."}
+{"output_text": "flu", "input_text": "I have chills, fever, and body pain."}
+{"output_text": "cold", "input_text": "I’m sneezing and my nose is blocked."}
+{"output_text": "migraine", "input_text": "My vision blurs before my headache starts."}
+{"output_text": "food poisoning", "input_text": "I feel weak with cramp.}
+{"output_text": "anxiety", "input_text": "My heart races for no reason and I feel on edge most of the day."}
+{"output_text": "depression", "input_text": "I feel exhausted and unmotivated even after sleeping well."}
+{"output_text": "panic disorder", "input_text": "I suddenly get intense fear, chest tightness, and shaking."}
+{"output_text": "social anxiety", "input_text": "I feel extremely nervous and sweaty when I have to talk to people."}
+{"output_text": "OCD", "input_text": "I keep checking things repeatedly even though I know they’re fine."}
+{"output_text": "generalized anxiety disorder", "input_text": "I worry constantly about things that shouldn’t bother me this much."}
+{"output_text": "PTSD", "input_text": "I get flashbacks and nightmares about something traumatic that happened."}
+{"output_text": "bipolar disorder", "input_text": "Some days I feel extremely energetic, other days I’m deeply drained."}
+{"output_text": "ADHD", "input_text": "I struggle to focus, get distracted easily, and forget simple tasks."}
+{"output_text": "insomnia", "input_text": "I can’t fall asleep even when I’m exhausted."}
+{"output_text": "depression", "input_text": "I’ve lost interest in things I used to enjoy."}
+{"output_text": "anxiety", "input_text": "My hands shake whenever I have to make decisions."}
+{"output_text": "panic disorder", "input_text": "I feel like I’m suffocating during sudden overwhelming episodes."}
+{"output_text": "OCD", "input_text": "I have intrusive thoughts and I try to neutralize them with rituals."}
+{"output_text": "social anxiety", "input_text": "My voice shakes when I have to speak in front of others."}
+{"output_text": "PTSD", "input_text": "Loud noises trigger memories I don’t want to relive."}
+{"output_text": "ADHD", "input_text": "I start tasks but never finish them because I lose focus."}
+{"output_text": "bipolar disorder", "input_text": "My mood changes drastically between extreme highs and lows."}
+{"output_text": "insomnia", "input_text": "I wake up multiple times at night and can’t fall back asleep."}
+{"output_text": "depression", "input_text": "I feel hopeless and disconnected from everything around me."}
+{"output_text": "generalized anxiety disorder", "input_text": "I overthink even the smallest situations until I feel overwhelmed."}
+{"output_text": "panic disorder", "input_text": "I get sudden trembling, dizziness, and fear for no clear reason."}
+{"output_text": "OCD", "input_text": "I feel a strong urge to clean things repeatedly even when they look clean."}
+{"output_text": "anxiety", "input_text": "I constantly expect something bad to happen even when nothing is wrong."}
+{"output_text": "depression", "input_text": "Getting out of bed feels like a huge task every morning."}
+{"output_text": "insomnia", "input_text": "I lie awake for hours, unable to quiet my thoughts."}
+{"output_text": "social anxiety", "input_text": "I avoid gatherings because I feel judged by everyone."}
+{"output_text": "PTSD", "input_text": "Certain places make me feel unsafe and trigger memories I try to forget."}
+{"output_text": "bipolar disorder", "input_text": "I have days where I talk nonstop and others where I barely speak."}
+{"output_text": "ADHD", "input_text": "I fidget constantly and can’t stay still for long."}
+{"output_text": "generalized anxiety disorder", "input_text": "I always imagine the worst-case scenario even when things are fine."}
+{"output_text": "panic disorder", "input_text": "My chest tightens and I feel dizzy during sudden overwhelming moments."}
+{"output_text": "depression", "input_text": "I feel emotionally numb and disconnected from people around me."}
+{"output_text": "anxiety", "input_text": "I have trouble breathing normally when I get stressed."}
+{"output_text": "OCD", "input_text": "I repeat certain phrases in my head to feel safe."}
+{"output_text": "PTSD", "input_text": "I avoid places and people that remind me of my trauma."}
+{"output_text": "social anxiety", "input_text": "I rehearse conversations in my head because I fear embarrassment."}
+{"output_text": "bipolar disorder", "input_text": "I have bursts of energy where I barely sleep, followed by long periods of fatigue."}
+{"output_text": "ADHD", "input_text": "I can't organize my thoughts and lose track of what I’m doing often."}
+{"output_text": "insomnia", "input_text": "My mind races at night keeping me from sleeping."}
+{"output_text": "generalized anxiety disorder", "input_text": "I feel restless and tense throughout the day."}
+{"output_text": "depression", "input_text": "I feel empty even when I’m around people I care about."}
+{"output_text": "anxiety", "input_text": "I feel a knot in my stomach whenever I think about the future."}
+{"output_text": "panic disorder", "input_text": "My breathing becomes rapid and I feel like I'm losing control suddenly."}
+{"output_text": "OCD", "input_text": "I count objects or steps constantly without meaning to."}
+{"output_text": "PTSD", "input_text": "I feel jumpy and startled over small sounds."}
+{"output_text": "social anxiety", "input_text": "I get sweaty palms just thinking about meeting new people."}
+{"output_text": "ADHD", "input_text": "My thoughts bounce around making it hard to concentrate."}
+{"output_text": "bipolar disorder", "input_text": "Some days I feel invincible, others I can’t get out of bed."}
+{"output_text": "depression", "input_text": "I feel constant sadness and I no longer enjoy activities that used to make me happy."}
+{"output_text": "depression", "input_text": "I feel tired all the time and struggle to get out of bed even after a full night's sleep."}
+{"output_text": "depression", "input_text": "My appetite has changed drastically and I find myself withdrawing from friends and family."}
+{"output_text": "depression", "input_text": "I can’t concentrate on work and small tasks feel overwhelming."}
+{"output_text": "depression", "input_text": "I feel hopeless and empty most days, as if nothing matters anymore."}
+{"output_text": "depression", "input_text": "I have trouble sleeping and I wake up feeling exhausted."}
+{"output_text": "depression", "input_text": "I feel guilty for no reason and find myself crying often."}
+{"output_text": "depression", "input_text": "I avoid social interactions because I feel like a burden to everyone around me."}
+{"output_text": "depression", "input_text": "My mind feels foggy, and I struggle to make decisions."}
+{"output_text": "depression", "input_text": "I feel emotionally numb and disconnected from my surroundings."}
+{"output_text": "anxiety disorder", "input_text": "I constantly worry about everything even when nothing is actually wrong."}
+{"output_text": "anxiety disorder", "input_text": "My heart beats fast whenever I think about daily tasks."}
+{"output_text": "anxiety disorder", "input_text": "I feel a constant tightness in my chest due to excessive worrying."}
+{"output_text": "anxiety disorder", "input_text": "I struggle to calm down and always feel restless and on edge."}
+{"output_text": "anxiety disorder", "input_text": "I get headaches from overthinking small things."}
+{"output_text": "anxiety disorder", "input_text": "My body trembles when I have to make decisions or talk to people."}
+{"output_text": "anxiety disorder", "input_text": "I avoid situations that make me nervous, even if they are important."}
+{"output_text": "anxiety disorder", "input_text": "I constantly fear something bad is going to happen."}
+{"output_text": "anxiety disorder", "input_text": "My palms get sweaty and I find it hard to focus when anxious thoughts take over."}
+{"output_text": "anxiety disorder", "input_text": "I feel overwhelmed by responsibilities that others find simple."}
+{"output_text": "panic disorder", "input_text": "I suddenly feel intense fear, dizziness, and chest pain without warning."}
+{"output_text": "panic disorder", "input_text": "I get panic attacks where I feel like I might faint."}
+{"output_text": "panic disorder", "input_text": "During an episode, I feel breathless and terrified for no clear reason."}
+{"output_text": "panic disorder", "input_text": "I feel like I’m losing control of my body during sudden fear spikes."}
+{"output_text": "panic disorder", "input_text": "My hands shake and my heart pounds rapidly during sudden episodes."}
+{"output_text": "panic disorder", "input_text": "I feel trapped and desperately want to escape during panic moments."}
+{"output_text": "panic disorder", "input_text": "I avoid public places because I fear having a panic attack."}
+{"output_text": "panic disorder", "input_text": "My breathing becomes shallow and I feel like I’m choking suddenly."}
+{"output_text": "panic disorder", "input_text": "I get chest tightness and feel disconnected during panic attacks."}
+{"output_text": "panic disorder", "input_text": "I constantly fear the next panic episode even when I’m calm."}
+{"output_text": "OCD", "input_text": "Unwanted thoughts keep repeating in my mind and I feel the urge to perform rituals."}
+{"output_text": "OCD", "input_text": "I wash my hands repeatedly even when they are clean."}
+{"output_text": "OCD", "input_text": "I keep checking locks and switches over and over again."}
+{"output_text": "OCD", "input_text": "I feel anxious if things are not arranged in a specific order."}
+{"output_text": "OCD", "input_text": "I have intrusive thoughts that make me uncomfortable."}
+{"output_text": "OCD", "input_text": "I count objects repeatedly even though I know it’s unnecessary."}
+{"output_text": "OCD", "input_text": "I perform certain routines because I fear something bad will happen if I don’t."}
+{"output_text": "OCD", "input_text": "I constantly double-check my work due to fear of mistakes."}
+{"output_text": "OCD", "input_text": "I feel compelled to repeat words under my breath to reduce anxiety."}
+{"output_text": "OCD", "input_text": "I spend so much time on compulsions that it interferes with my daily life."}
+{"output_text": "phobia", "input_text": "I avoid elevators because I feel intense fear whenever I’m in one."}
+{"output_text": "phobia", "input_text": "Even the thought of dogs makes me panic."}
+{"output_text": "phobia", "input_text": "I feel intense fear of heights even when I’m on the first floor balcony."}
+{"output_text": "phobia", "input_text": "I avoid crowded buses because I’m terrified of being stuck inside."}
+{"output_text": "phobia", "input_text": "I can't go near water bodies because I feel like I will drown."}
+{"output_text": "phobia", "input_text": "I panic when I see insects and immediately run away."}
+{"output_text": "phobia", "input_text": "I avoid hospitals because I feel unbearable anxiety around medical equipment."}
+{"output_text": "phobia", "input_text": "I freeze when I’m in enclosed spaces."}
+{"output_text": "phobia", "input_text": "I tremble at the sight of blood, even a small cut."}
+{"output_text": "phobia", "input_text": "I avoid flying because I’m terrified the plane might crash."}
+{"output_text": "bipolar disorder", "input_text": "I feel extremely energetic for days, then suddenly become exhausted and sad."}
+{"output_text": "bipolar disorder", "input_text": "I talk very fast during high-energy phases but barely speak during low moods."}
+{"output_text": "bipolar disorder", "input_text": "I act impulsively during highs and regret it during depressive episodes."}
+{"output_text": "bipolar disorder", "input_text": "My mood shifts drastically from excitement to deep sadness."}
+{"output_text": "bipolar disorder", "input_text": "During highs, I need very little sleep and feel invincible."}
+{"output_text": "bipolar disorder", "input_text": "I make big plans during highs but lose motivation during lows."}
+{"output_text": "bipolar disorder", "input_text": "I feel overly confident at times and extremely insecure at others."}
+{"output_text": "bipolar disorder", "input_text": "My emotions swing so quickly that people around me get confused."}
+{"output_text": "bipolar disorder", "input_text": "I feel bursts of creativity followed by periods of emptiness."}
+{"output_text": "bipolar disorder", "input_text": "I overspend during elevated moods and withdraw when depressed."}
+{"output_text": "schizophrenia", "input_text": "I hear voices that other people say they cannot hear."}
+{"output_text": "schizophrenia", "input_text": "I sometimes feel like people around me are plotting against me."}
+{"output_text": "schizophrenia", "input_text": "I see things that others say aren’t actually there."}
+{"output_text": "schizophrenia", "input_text": "My thoughts feel jumbled and I struggle to express myself clearly."}
+{"output_text": "schizophrenia", "input_text": "I feel emotionally flat and have trouble feeling happy or sad."}
+{"output_text": "schizophrenia", "input_text": "I find it hard to stay focused and complete simple tasks."}
+{"output_text": "schizophrenia", "input_text": "I believe people can read my thoughts even though I know it sounds strange."}
+{"output_text": "schizophrenia", "input_text": "I avoid people because I feel unsafe or misunderstood."}
+{"output_text": "schizophrenia", "input_text": "I get confused about what is real and what isn’t."}
+{"output_text": "schizophrenia", "input_text": "My speech becomes disorganized and people have trouble understanding me."}
+{"output_text": "substance use disorder", "input_text": "I rely on alcohol to feel relaxed, even though it's affecting my health."}
+{"output_text": "substance use disorder", "input_text": "I experience cravings for substances when I try to stop."}
+{"output_text": "substance use disorder", "input_text": "I can't control my drinking even though it’s causing problems at home."}
+{"output_text": "substance use disorder", "input_text": "I get irritable and shaky when I don’t have access to alcohol."}
+{"output_text": "substance use disorder", "input_text": "I spend a lot of money on substances, leaving little for essentials."}
+{"output_text": "substance use disorder", "input_text": "I lie to my family about how often I use drugs."}
+{"output_text": "substance use disorder", "input_text": "I lost interest in hobbies due to my increased substance use."}
+{"output_text": "substance use disorder", "input_text": "I continue using substances despite knowing they harm my health."}
+{"output_text": "substance use disorder", "input_text": "I avoid socializing unless substances are involved."}
+{"output_text": "substance use disorder", "input_text": "I feel withdrawal symptoms like sweating and anxiety when I stop using."}
+
+
+
