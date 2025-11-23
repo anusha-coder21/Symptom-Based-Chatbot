@@ -1376,7 +1376,7 @@
 {"output_text": "bronchitis", "input_text": "I have a persistent cough with thick mucus and chest discomfort."}
 {"output_text": "appendicitis", "input_text": "My lower right abdomen hurts badly and the pain gets worse when I move."}
 {"output_text": "gastritis", "input_text": "I feel a burning sensation in my upper stomach, especially after eating."}
-{"output_text": "covid", "input_text": "I lost my sense of smell and taste and have a dry cough."}
+{"output_text": "covid-19", "input_text": "I lost my sense of smell and taste and have a dry cough."}
 {"output_text": "asthma", "input_text": "I feel tightness in my chest and wheeze when breathing."}
 {"output_text": "anxiety", "input_text": "My heart races suddenly and I feel shaky and worried for no reason."}
 {"output_text": "dehydration", "input_text": "I feel dizzy, my mouth is dry, and my urine is very dark."}
@@ -1402,7 +1402,7 @@
 {"output_text": "UTI", "input_text": "I feel constant pelvic pressure and it burns each time I urinate."}
 {"output_text": "gastritis", "input_text": "My stomach feels irritated and I get nauseous after eating."}
 {"output_text": "common cold", "input_text": "My throat is scratchy and I keep sneezing all morning."}
-{"output_text": "covid", "input_text": "I have a persistent dry cough and no sense of taste."}
+{"output_text": "covid-19", "input_text": "I have a persistent dry cough and no sense of taste."}
 {"output_text": "pneumonia", "input_text": "Breathing deeply hurts and I have a fever with chills."}
 {"output_text": "heartburn", "input_text": "A burning feeling rises from my stomach into my chest."}
 {"output_text": "food allergy", "input_text": "My lips started swelling and I broke out in hives after eating nuts."}
@@ -1422,7 +1422,7 @@
 {"output_text": "bronchitis", "input_text": "I have a deep cough that won’t go away."}
 {"output_text": "allergy", "input_text": "My skin broke out in itchy bumps after playing in the grass."}
 {"output_text": "migraine", "input_text": "My headache throbs in sync with my heartbeat."}
-{"output_text": "covid", "input_text": "My throat hurts and I can’t smell anything."}
+{"output_text": "covid-19", "input_text": "My throat hurts and I can’t smell anything."}
 {"output_text": "flu", "input_text": "I feel weak, have a fever, and can barely get out of bed."}
 {"output_text": "strep throat", "input_text": "My throat is extremely sore and I have a headache."}
 {"output_text": "conjunctivitis", "input_text": "My eye is red and sticky when I wake up."}
@@ -1443,7 +1443,7 @@
 {"output_text": "food poisoning", "input_text": "My stomach cramps are severe and I keep vomiting."}
 {"output_text": "UTI", "input_text": "My urine smells strong and it hurts to go."}
 {"output_text": "sinus infection", "input_text": "My cheeks hurt and my nose is blocked with thick discharge."}
-{"output_text": "covid", "input_text": "I feel feverish and have a tight chest with a dry cough."}
+{"output_text": "covid-19", "input_text": "I feel feverish and have a tight chest with a dry cough."}
 {"output_text": "cold", "input_text": "I have mild throat irritation and watery eyes."}
 {"output_text": "flu", "input_text": "I feel hot, achy, and extremely weak."}
 {"output_text": "dermatitis", "input_text": "My skin is red, dry, and flaky."}
@@ -1459,7 +1459,7 @@
 {"output_text": "migraine", "input_text": "I feel nauseous and sensitive to sound during the headache."}
 {"output_text": "allergy", "input_text": "My skin feels itchy and I developed small red patches."}
 {"output_text": "UTI", "input_text": "I feel sharp pain while urinating and constant pressure."}
-{"output_text": "covid", "input_text": "I’m coughing nonstop and feel unusually tired."}
+{"output_text": "covid-19", "input_text": "I’m coughing nonstop and feel unusually tired."}
 {"output_text": "gastric flu", "input_text": "I have vomiting and watery diarrhea with mild fever."}
 {"output_text": "asthma", "input_text": "I wheeze and feel breathless when I try to exercise."}
 {"output_text": "flu", "input_text": "I have a sudden high fever, chills, and my whole body feels sore."}
@@ -1477,7 +1477,7 @@
 {"output_text": "ear infection", "input_text": "My ear hurts inside and sounds feel muffled."}
 {"output_text": "pink eye", "input_text": "My eye is irritated and sticky with yellow discharge."}
 {"output_text": "mono", "input_text": "I feel extremely exhausted and my throat is swollen."}
-{"output_text": "covid", "input_text": "I lost my sense of smell and I have a dry cough."}
+{"output_text": "covid-19", "input_text": "I lost my sense of smell and I have a dry cough."}
 {"output_text": "pneumonia", "input_text": "My chest hurts when breathing deeply and I have a fever."}
 {"output_text": "allergy", "input_text": "My nose is itchy and I sneeze nonstop around pollen."}
 {"output_text": "eczema", "input_text": "My skin is red, dry, and itchy in patches."}
@@ -1506,7 +1506,7 @@
 {"output_text": "flu", "input_text": "I have chills, a fever, and pain in every muscle."}
 {"output_text": "cold", "input_text": "My throat feels scratchy and my nose is dripping."}
 {"output_text": "pneumonia", "input_text": "I cough heavily and my breathing feels difficult."}
-{"output_text": "covid", "input_text": "I have fatigue, dry cough, and no sense of taste."}
+{"output_text": "covid-19", "input_text": "I have fatigue, dry cough, and no sense of taste."}
 {"output_text": "gastritis", "input_text": "I feel nausea every morning and my stomach burns."}
 {"output_text": "food poisoning", "input_text": "I have vomiting, cramps, and watery diarrhea."}
 {"output_text": "anxiety", "input_text": "I feel breathless and shaky when stressed."}
@@ -1525,7 +1525,7 @@
 {"output_text": "strep throat", "input_text": "My throat is painful and swallowing feels sharp."}
 {"output_text": "food poisoning", "input_text": "I suddenly got nausea and stomach cramps."}
 {"output_text": "gastritis", "input_text": "I get a burning sensation in my stomach after eating quickly."}
-{"output_text": "covid", "input_text": "I have chest tightness and fatigue with loss of smell."}
+{"output_text": "covid-19", "input_text": "I have chest tightness and fatigue with loss of smell."}
 {"output_text": "viral fever", "input_text": "I feel weak, have fever, and no appetite."}
 {"output_text": "mono", "input_text": "I feel unusually tired and my glands feel swollen."}
 {"output_text": "anxiety", "input_text": "My chest feels tight and I feel restless."}
@@ -1542,7 +1542,7 @@
 {"output_text": "tonsillitis", "input_text": "My tonsils feel swollen and painful while speaking."}
 {"output_text": "gastritis", "input_text": "My stomach feels irritated and sore after meals."}
 {"output_text": "pneumonia", "input_text": "I have trouble breathing and coughing hurts deeply."}
-{"output_text": "covid", "input_text": "I have a sore throat and a persistent dry cough."}
+{"output_text": "covid-19", "input_text": "I have a sore throat and a persistent dry cough."}
 {"output_text": "dermatitis", "input_text": "My skin reacts with redness after certain lotions."}
 {"output_text": "flu", "input_text": "I have chills, fever, and body pain."}
 {"output_text": "cold", "input_text": "I’m sneezing and my nose is blocked."}
@@ -1677,6 +1677,385 @@
 {"output_text": "substance use disorder", "input_text": "I continue using substances despite knowing they harm my health."}
 {"output_text": "substance use disorder", "input_text": "I avoid socializing unless substances are involved."}
 {"output_text": "substance use disorder", "input_text": "I feel withdrawal symptoms like sweating and anxiety when I stop using."}
-
-
-
+{"output_text": "pcod", "input_text": "My periods have become irregular and I feel bloated most of the time."}
+{"output_text": "pcod", "input_text": "I have frequent acne breakouts and my cycle is unpredictable."}
+{"output_text": "pcod", "input_text": "I gained weight suddenly and my periods are coming late."}
+{"output_text": "pcod", "input_text": "My flow is very light one month and very heavy the next."}
+{"output_text": "pcod", "input_text": "I feel pelvic pain before my periods and they often get delayed."}
+{"output_text": "pcod", "input_text": "My face has more acne and my periods come after 45 to 60 days."}
+{"output_text": "pcod", "input_text": "I feel bloated often and have inconsistent menstrual flow."}
+{"output_text": "pcod", "input_text": "I experience lower abdominal pain and irregular bleeding."}
+{"output_text": "pcod", "input_text": "My cycle has become unpredictable and I feel constantly tired."}
+{"output_text": "pcod", "input_text": "I have mood swings before my delayed periods."}
+{"output_text": "pcod", "input_text": "My hair has become thin and my periods are erratic."}
+{"output_text": "pcod", "input_text": "I feel pressure around my pelvic area and my cycles are irregular."}
+{"output_text": "pcod", "input_text": "I get heavy bleeding followed by two months of no periods."}
+{"output_text": "pcod", "input_text": "I feel abdominal discomfort and my cycle has extended unexpectedly."}
+{"output_text": "pcod", "input_text": "I have more facial acne and delayed flow every month."}
+{"output_text": "pcod", "input_text": "I gained weight around my hips and my periods are inconsistent."}
+{"output_text": "pcod", "input_text": "My cycle is irregular and I feel fatigued easily."}
+{"output_text": "pcod", "input_text": "I experience bloating and my periods skip months."}
+{"output_text": "pcod", "input_text": "I have menstrual spotting and pain before my cycle starts."}
+{"output_text": "pcod", "input_text": "I feel pelvic heaviness and my periods are late frequently."}
+{"output_text": "pcod", "input_text": "My menstrual cycle keeps changing and I break out often."}
+{"output_text": "pcod", "input_text": "I get cramps even when I'm not on my period and my flow is irregular."}
+{"output_text": "pcod", "input_text": "My periods have become unpredictable and I feel tired constantly."}
+{"output_text": "pcod", "input_text": "I have excessive acne on my cheeks and chin along with irregular cycles."}
+{"output_text": "pcod", "input_text": "My periods come late and I feel bloated every few days."}
+{"output_text": "pcod", "input_text": "I get sharp lower abdominal pain before my delayed periods."}
+{"output_text": "pcod", "input_text": "I experience heavy bleeding one cycle and hardly any the next."}
+{"output_text": "pcod", "input_text": "My cycle lasts around 50 days and I feel pelvic discomfort."}
+{"output_text": "pcod", "input_text": "I have mild hair thinning and painful delayed periods."}
+{"output_text": "pcod", "input_text": "I feel bloated around my stomach and my periods come irregularly."}
+{"output_text": "pcod", "input_text": "I have cycles that vary between 35 to 60 days."}
+{"output_text": "pcod", "input_text": "I feel sharp pain near my ovaries before my period."}
+{"output_text": "pcod", "input_text": "My flow is unpredictable and accompanied by abdominal heaviness."}
+{"output_text": "pcod", "input_text": "I experience delayed menstruation and constant bloating."}
+{"output_text": "pcod", "input_text": "I get pimples on my jawline and my cycles are irregular."}
+{"output_text": "pcod", "input_text": "My periods skip months and I experience pelvic pain often."}
+{"output_text": "pcod", "input_text": "My cycle fluctuates and I feel fatigued during delayed periods."}
+{"output_text": "pcod", "input_text": "I have uneven bleeding patterns and lower abdominal discomfort."}
+{"output_text": "pcod", "input_text": "I feel bloated and get delayed cycles frequently."}
+{"output_text": "pcod", "input_text": "I get acne flare-ups when my period gets delayed."}
+{"output_text": "pcod", "input_text": "My periods are unpredictable and I feel tired most mornings."}
+{"output_text": "pcod", "input_text": "I have mild cramps throughout the month with irregular periods."}
+{"output_text": "pcod", "input_text": "I experience bloating and notice weight gain around my waist."}
+{"output_text": "pcod", "input_text": "My menstrual cycle keeps getting longer and my skin breaks out."}
+{"output_text": "pcod", "input_text": "I get heavy flow followed by skipped cycles."}
+{"output_text": "pcod", "input_text": "I feel discomfort around my ovaries during my delayed periods."}
+{"output_text": "pcod", "input_text": "My cycles are inconsistent and my acne has worsened recently."}
+{"output_text": "pcod", "input_text": "I feel bloated and tired before my irregular periods."}
+{"output_text": "pcod", "input_text": "My flow is light for months and then suddenly heavy."}
+{"output_text": "pcod", "input_text": "I get pelvic pain on one side before irregular cycles."}
+{"output_text": "pcod", "input_text": "My period comes after long gaps and I get mood swings."}
+{"output_text": "pcod", "input_text": "I have hormonal acne and unpredictable menstruation."}
+{"output_text": "pcod", "input_text": "I feel heavy in my abdomen and my cycles are delayed often."}
+{"output_text": "pcod", "input_text": "My periods are late and I feel bloated most evenings."}
+{"output_text": "pcod", "input_text": "I get acne around my chin and my cycle is irregular every month."}
+{"output_text": "pcod", "input_text": "My bleeding pattern keeps changing and I feel pelvic pressure."}
+{"output_text": "pcod", "input_text": "I feel bloated and experience long menstrual cycles."}
+{"output_text": "pcod", "input_text": "My periods come late and I have mild abdominal cramps often."}
+{"output_text": "pcod", "input_text": "I experience irregular cycles along with persistent acne."}
+{"output_text": "pcod", "input_text": "My cycle is unpredictable and I gain weight easily."}
+{"output_text": "pcod", "input_text": "I feel heaviness in my lower abdomen during late cycles."}
+{"output_text": "pcod", "input_text": "My periods are inconsistent and I feel tired for days."}
+{"output_text": "pcod", "input_text": "I get acne on my neck area and my cycles skip months."}
+{"output_text": "pcod", "input_text": "I feel bloated and sluggish before my delayed periods."}
+{"output_text": "pcod", "input_text": "My menstrual flow shifts between very light and very heavy."}
+{"output_text": "pcod", "input_text": "I get stabbing pain on one side of my abdomen before my cycle."}
+{"output_text": "pcod", "input_text": "My periods get delayed often and I feel low energy."}
+{"output_text": "pcod", "input_text": "I have unpredictable bleeding and persistent tiredness."}
+{"output_text": "pcod", "input_text": "My cycles fluctuate a lot and my acne increases before my period."}
+{"output_text": "pcod", "input_text": "I feel pelvic discomfort and irregular menstrual patterns."}
+{"output_text": "pcod", "input_text": "My cycle is 40–50 days long and I feel bloated regularly."}
+{"output_text": "pcod", "input_text": "I get cramps even when I’m not menstruating and my period is late."}
+{"output_text": "pcod", "input_text": "My bleeding is irregular and I experience pelvic heaviness."}
+{"output_text": "pcod", "input_text": "I feel fatigued and my cycle shifts unpredictably."}
+{"output_text": "pcod", "input_text": "I have long menstrual gaps and recurring acne issues."}
+{"output_text": "pcod", "input_text": "I experience bloating and inconsistent menstrual flow."}
+{"output_text": "pcod", "input_text": "My cycles are irregular and I feel lower abdominal pain."}
+{"output_text": "pcod", "input_text": "I get delayed periods and abdominal bloating."}
+{"output_text": "pcod", "input_text": "My flow changes every cycle and I feel pelvic pressure often."}
+{"output_text": "pcod", "input_text": "I feel bloated for days before my late periods."}
+{"output_text": "pcod", "input_text": "My periods skip months and I feel tired easily."}
+{"output_text": "pcod", "input_text": "I have mild hair thinning and irregular menstrual timing."}
+{"output_text": "pcod", "input_text": "My cycles fluctuate and I get abdominal discomfort before my period."}
+{"output_text": "pcod", "input_text": "I feel bloated and notice hormonal acne before irregular cycles."}
+{"output_text": "pcod", "input_text": "My periods are never on time and my skin breaks out before bleeding."}
+{"output_text": "pcod", "input_text": "I have inconsistent menstrual patterns and a heavy feeling around my stomach."}
+{"output_text": "pcod", "input_text": "My cycles are delayed frequently and I feel bloated and moody."}
+{"output_text": "pcod", "input_text": "I get lower abdominal cramps and unpredictable menstrual flow."}
+{"output_text": "pcod", "input_text": "My periods arrive late every month and I feel persistent tiredness."}
+{"output_text": "pcod", "input_text": "I get pelvic discomfort and irregular cycles with acne flare-ups."}
+{"output_text": "pcos", "input_text": "I have irregular periods along with excessive facial hair growth."}
+{"output_text": "pcos", "input_text": "I gained weight suddenly and have dark patches on my neck."}
+{"output_text": "pcos", "input_text": "I feel tired all the time and my periods are extremely irregular."}
+{"output_text": "pcos", "input_text": "My facial hair has increased and my cycle often skips months."}
+{"output_text": "pcos", "input_text": "I have thinning hair on my scalp and increased acne."}
+{"output_text": "pcos", "input_text": "My menstrual cycle is irregular and I experience insulin-related fatigue."}
+{"output_text": "pcos", "input_text": "I gained weight in my abdomen and have delayed menstruation."}
+{"output_text": "pcos", "input_text": "I have excess hair growth on my face along with acne outbreaks."}
+{"output_text": "pcos", "input_text": "My cycles are long and I feel extremely fatigued."}
+{"output_text": "pcos", "input_text": "I have darkening skin around my armpits and irregular cycles."}
+{"output_text": "pcos", "input_text": "I feel bloated, tired, and have unpredictable periods."}
+{"output_text": "pcos", "input_text": "I struggle to lose weight and my periods are irregular."}
+{"output_text": "pcos", "input_text": "My facial hair is increasing and my period comes after 2 months."}
+{"output_text": "pcos", "input_text": "I feel mood swings and have irregular menstrual cycles."}
+{"output_text": "pcos", "input_text": "I experience acne, facial hair, and extremely delayed periods."}
+{"output_text": "pcos", "input_text": "My hair is thinning while my periods remain unpredictable."}
+{"output_text": "pcos", "input_text": "I gained weight rapidly and have hormonal acne."}
+{"output_text": "pcos", "input_text": "I have excessive hair growth and painful irregular periods."}
+{"output_text": "pcos", "input_text": "I feel fatigued and notice dark patches on my skin."}
+{"output_text": "pcos", "input_text": "I have irregular bleeding and my face has more acne than usual."}
+{"output_text": "pcos", "input_text": "I experience hair thinning along with facial hair growth."}
+{"output_text": "pcos", "input_text": "My cycle is very unpredictable and my weight keeps increasing."}
+{"output_text": "pcos", "input_text": "I have mood swings and get acne flare-ups before irregular periods."}
+{"output_text": "pcos", "input_text": "I feel exhausted and my menstrual cycle is consistently delayed."}
+{"output_text": "pcos", "input_text": "I have irregular menstruation and increased hair fall."}
+{"output_text": "pcos", "input_text": "I experience bloating and hormonal imbalance symptoms."}
+{"output_text": "pcos", "input_text": "My periods skip months and I have skin darkening."}
+{"output_text": "pcos", "input_text": "I have increased hair growth on my body with delayed cycles."}
+{"output_text": "pcos", "input_text": "I feel constantly tired and my periods come irregularly."}
+{"output_text": "pcos", "input_text": "I gained weight around my waist and have acne issues."}
+{"output_text": "pcos", "input_text": "My hair feels thinner and my cycles are delayed."}
+{"output_text": "pcos", "input_text": "I get excessive pimples and my periods are inconsistent."}
+{"output_text": "pcos", "input_text": "I experience mood changes and hormonal hair growth."}
+{"output_text": "pcos", "input_text": "My periods skip months and I have dark pigmentation."}
+{"output_text": "pcos", "input_text": "I feel bloated frequently and my cycle is irregular."}
+{"output_text": "pcos", "input_text": "I have heavy facial hair and delayed menstruation."}
+{"output_text": "pcos", "input_text": "My scalp hair is thinning while unwanted hair is increasing."}
+{"output_text": "pcos", "input_text": "I struggle with weight and get irregular periods."}
+{"output_text": "pcos", "input_text": "I get acne on my face and back along with unpredictable periods."}
+{"output_text": "pcos", "input_text": "I feel fatigued and notice hair thinning and skin darkening."}
+{"output_text": "pcos", "input_text": "I have irregular cycles and my facial hair is increasing rapidly."}
+{"output_text": "pcos", "input_text": "My periods are late and I have excess body hair."}
+{"output_text": "pcos", "input_text": "I feel tired all day and have acne that won't go away."}
+{"output_text": "pcos", "input_text": "I gained weight suddenly and my cycle is delayed."}
+{"output_text": "pcos", "input_text": "My periods skip frequently and I have more facial hair than before."}
+{"output_text": "pcos", "input_text": "I notice dark patches on my neck along with irregular menstruation."}
+{"output_text": "pcos", "input_text": "My hair is thinning and my period cycle is inconsistent."}
+{"output_text": "pcos", "input_text": "I feel exhausted and notice excessive hormonal acne."}
+{"output_text": "pcos", "input_text": "I gained fat around my stomach and my periods are irregular."}
+{"output_text": "pcos", "input_text": "I get mood swings and my cycle keeps changing."}
+{"output_text": "pcos", "input_text": "I experience bloating, fatigue, and hormonal imbalance symptoms."}
+{"output_text": "pcos", "input_text": "My periods come after long gaps and I have thick facial hair."}
+{"output_text": "pcos", "input_text": "I have hair fall and irregular menstrual cycles."}
+{"output_text": "pcos", "input_text": "I feel bloated and tired with delayed menstruation."}
+{"output_text": "pcos", "input_text": "I experience dark pigmentation and unpredictable cycles."}
+{"output_text": "pcos", "input_text": "My acne has worsened and my periods are delayed each month."}
+{"output_text": "pcos", "input_text": "I have irregular cycles and increased body hair growth."}
+{"output_text": "pcos", "input_text": "I feel fatigued and have sudden weight gain."}
+{"output_text": "pcos", "input_text": "I get acne and dark skin patches along with irregular periods."}
+{"output_text": "pcos", "input_text": "I have scalp hair thinning and heavy unwanted hair."}
+{"output_text": "pcos", "input_text": "My periods skip months and I feel constantly bloated."}
+{"output_text": "pcos", "input_text": "I have irregular bleeding and increased acne."}
+{"output_text": "pcos", "input_text": "I gained weight recently and my cycles are unpredictable."}
+{"output_text": "pcos", "input_text": "I feel tired frequently and my facial hair keeps increasing."}
+{"output_text": "pcos", "input_text": "I have mood swings, hormonal acne, and irregular periods."}
+{"output_text": "pcos", "input_text": "My cycle is delayed and I notice dark patches on my body."}
+{"output_text": "pcos", "input_text": "I experience fatigue and excessive body hair."}
+{"output_text": "pcos", "input_text": "I have hormonal acne that worsens before delayed periods."}
+{"output_text": "pcos", "input_text": "I gained weight and my periods skip months frequently."}
+{"output_text": "pcos", "input_text": "I feel bloated every week and have unpredictable menstruation."}
+{"output_text": "pcos", "input_text": "I have thinning hair on my head and thick hair on my face."}
+{"output_text": "pcos", "input_text": "My skin darkening is increasing along with irregular cycles."}
+{"output_text": "pcos", "input_text": "I get cystic acne and my periods are very unpredictable."}
+{"output_text": "pcos", "input_text": "I gained weight rapidly and feel fatigued daily."}
+{"output_text": "pcos", "input_text": "I have excess facial hair and my cycle is delayed often."}
+{"output_text": "pcos", "input_text": "I feel mood swings and bloating before my irregular periods."}
+{"output_text": "pcos", "input_text": "My bleeding pattern is inconsistent and I have acne outbreaks."}
+{"output_text": "pcos", "input_text": "My periods come after long delays and I noticed dark patches on my skin."}
+{"output_text": "pcos", "input_text": "I feel fatigued easily and my acne keeps getting worse."}
+{"output_text": "pcos", "input_text": "I have rapid weight gain and delayed menstruation."}
+{"output_text": "pcos", "input_text": "I have excessive hair growth and hormonal imbalance signs."}
+{"output_text": "pcos", "input_text": "I feel bloated most days and my menstrual cycle is irregular."}
+{"output_text": "pcos", "input_text": "I get pimples on my jawline and chest with unpredictable periods."}
+{"output_text": "pcos", "input_text": "My scalp hair has reduced and facial hair has increased."}
+{"output_text": "pcos", "input_text": "I get tired easily and have darkening of skin."}
+{"output_text": "pcos", "input_text": "My cycle is late every month and I have hormonal acne."}
+{"output_text": "pcos", "input_text": "I experience bloating, fatigue, and delayed cycles frequently."}
+{"output_text": "pcos", "input_text": "I gained abdominal fat and my periods are irregular."}
+{"output_text": "pcos", "input_text": "I feel emotional ups and downs with unpredictable menstruation."}
+{"output_text": "pcos", "input_text": "I have acne, fatigue, and long menstrual gaps."}
+{"output_text": "pcos", "input_text": "My facial hair is increasing and my cycles are extremely inconsistent."}
+{"output_text": "hypothyroidism", "input_text": "I feel tired all the time and even simple tasks exhaust me quickly."}
+{"output_text": "hypothyroidism", "input_text": "My skin has become very dry and rough lately, and I feel unusually cold."}
+{"output_text": "hypothyroidism", "input_text": "I am gaining weight even though my diet has not changed at all."}
+{"output_text": "hypothyroidism", "input_text": "My hair is thinning and falling out much faster than normal."}
+{"output_text": "hypothyroidism", "input_text": "I feel mentally slow, forgetful, and unable to concentrate for long."}
+{"output_text": "hypothyroidism", "input_text": "My voice sounds hoarse and deeper than usual."}
+{"output_text": "hypothyroidism", "input_text": "I feel constipated often and my digestion has slowed down."}
+{"output_text": "hypothyroidism", "input_text": "My hands and face feel puffy and swollen in the mornings."}
+{"output_text": "hypothyroidism", "input_text": "I feel unusually depressed and emotionally low without any reason."}
+{"output_text": "hypothyroidism", "input_text": "My muscles feel weak and I experience frequent cramps."}
+{"output_text": "hypothyroidism", "input_text": "I feel sleepy throughout the day and lack energy to work."}
+{"output_text": "hypothyroidism", "input_text": "My menstrual cycle has become irregular and heavier than normal."}
+{"output_text": "hypothyroidism", "input_text": "I feel chilled even in warm weather and need extra layers."}
+{"output_text": "hypothyroidism", "input_text": "I have been experiencing slow heart rate and persistent fatigue."}
+{"output_text": "hypothyroidism", "input_text": "My facial expression looks dull and my skin looks pale."}
+{"output_text": "hypothyroidism", "input_text": "I feel sluggish mentally and emotionally with persistent low mood."}
+{"output_text": "hypothyroidism", "input_text": "My hands feel numb and tingly unexpectedly."}
+{"output_text": "hypothyroidism", "input_text": "I feel breathless during mild physical activity."}
+{"output_text": "hypothyroidism", "input_text": "I wake up tired even after sleeping well."}
+{"output_text": "hypothyroidism", "input_text": "I experience joint stiffness and slow movement in the morning."}
+{"output_text": "hyperthyroidism", "input_text": "I feel extremely anxious and restless even when nothing is wrong."}
+{"output_text": "hyperthyroidism", "input_text": "My heart races suddenly, especially when I’m resting."}
+{"output_text": "hyperthyroidism", "input_text": "I am losing weight despite eating more than usual."}
+{"output_text": "hyperthyroidism", "input_text": "I sweat excessively and feel hot all the time."}
+{"output_text": "hyperthyroidism", "input_text": "My hands tremble and I feel shaky throughout the day."}
+{"output_text": "hyperthyroidism", "input_text": "I am unable to sleep properly and feel overly energetic."}
+{"output_text": "hyperthyroidism", "input_text": "I feel irritable and my mood changes quickly."}
+{"output_text": "hyperthyroidism", "input_text": "I have frequent bowel movements and loose stools."}
+{"output_text": "hyperthyroidism", "input_text": "My neck area feels swollen and tender."}
+{"output_text": "hyperthyroidism", "input_text": "I experience heart palpitations when climbing stairs."}
+{"output_text": "hyperthyroidism", "input_text": "I feel like I cannot sit still and always need to move around."}
+{"output_text": "hyperthyroidism", "input_text": "My appetite has increased dramatically but I'm still losing weight."}
+{"output_text": "hyperthyroidism", "input_text": "My eyes feel dry and irritated often."}
+{"output_text": "hyperthyroidism", "input_text": "I feel overly sensitive to heat and avoid warm places."}
+{"output_text": "hyperthyroidism", "input_text": "My hair feels thinner and brittle."}
+{"output_text": "hyperthyroidism", "input_text": "I feel nervous and overwhelmed during simple tasks."}
+{"output_text": "hyperthyroidism", "input_text": "My menstrual cycle has become lighter and more irregular."}
+{"output_text": "hyperthyroidism", "input_text": "I feel like I get tired quickly but remain mentally hyperactive."}
+{"output_text": "hyperthyroidism", "input_text": "I experience shortness of breath when walking fast."}
+{"output_text": "hyperthyroidism", "input_text": "I get dizzy spells and sudden episodes of weakness."}
+{"output_text": "hashimoto's thyroiditis", "input_text": "I feel fatigued daily and my neck feels slightly swollen."}
+{"output_text": "hashimoto's thyroiditis", "input_text": "My voice feels raspy and my throat feels inflamed."}
+{"output_text": "hashimoto's thyroiditis", "input_text": "I have persistent muscle aches and unexplained fatigue."}
+{"output_text": "hashimoto's thyroiditis", "input_text": "I feel depressed and mentally foggy most of the time."}
+{"output_text": "hashimoto's thyroiditis", "input_text": "My skin is dry and I feel less energetic every day."}
+{"output_text": "hashimoto's thyroiditis", "input_text": "I experience joint stiffness and swelling in my hands."}
+{"output_text": "hashimoto's thyroiditis", "input_text": "I gained weight suddenly even though my diet is normal."}
+{"output_text": "hashimoto's thyroiditis", "input_text": "My menstrual cycle has become irregular and painful."}
+{"output_text": "hashimoto's thyroiditis", "input_text": "I have difficulty concentrating and remembering things."}
+{"output_text": "hashimoto's thyroiditis", "input_text": "I feel constantly cold and need warm clothes indoors."}
+{"output_text": "hashimoto's thyroiditis", "input_text": "I feel swelling around my neck and discomfort while swallowing."}
+{"output_text": "hashimoto's thyroiditis", "input_text": "I often feel constipated and bloated."}
+{"output_text": "hashimoto's thyroiditis", "input_text": "My hair is thinning and I feel unusually tired."}
+{"output_text": "hashimoto's thyroiditis", "input_text": "I feel chronic fatigue and have trouble waking up."}
+{"output_text": "hashimoto's thyroiditis", "input_text": "I experience mood swings and unexplained sadness."}
+{"output_text": "goiter", "input_text": "I have visible swelling in my neck that feels tight."}
+{"output_text": "goiter", "input_text": "I feel discomfort while swallowing or turning my head."}
+{"output_text": "goiter", "input_text": "My neck feels enlarged and sore when touched."}
+{"output_text": "goiter", "input_text": "I sometimes feel breathless when lying down."}
+{"output_text": "goiter", "input_text": "I feel pressure in my throat even when not eating."}
+{"output_text": "thyroid nodules", "input_text": "I felt a small lump near my throat and my voice sounds hoarse."}
+{"output_text": "thyroid nodules", "input_text": "I feel a tight sensation in my neck and occasional choking feeling."}
+{"output_text": "thyroid nodules", "input_text": "I have difficulty swallowing solid food sometimes."}
+{"output_text": "thyroid nodules", "input_text": "My throat feels scratchy and irritated often."}
+{"output_text": "thyroid nodules", "input_text": "I discovered a painless bump near my thyroid region."}
+{"output_text": "thyroiditis", "input_text": "My neck feels painful and tender when touched."}
+{"output_text": "thyroiditis", "input_text": "I feel feverish and weak along with throat discomfort."}
+{"output_text": "thyroiditis", "input_text": "My heart beats faster and I feel shaky."}
+{"output_text": "thyroiditis", "input_text": "I experience sudden weight changes and fatigue."}
+{"output_text": "thyroiditis", "input_text": "The pain around my thyroid worsens when I swallow."}
+{"output_text": "thyroiditis", "input_text": "I have a sore throat but no cold symptoms, and my neck feels swollen."}
+{"output_text": "thyroiditis", "input_text": "I feel alternation between high energy and deep fatigue."}
+{"output_text": "thyroiditis", "input_text": "I feel anxious and shaky during flare-ups."}
+{"output_text": "thyroiditis", "input_text": "My appetite fluctuates randomly along with mood swings."}
+{"output_text": "thyroiditis", "input_text": "I feel pain spreading from my neck to my jaw and ears."}
+{"output_text": "hyperthyroidism", "input_text": "I lose weight even though I eat multiple meals daily."}
+{"output_text": "hypothyroidism", "input_text": "I feel extremely cold compared to everyone around me."}
+{"output_text": "hyperthyroidism", "input_text": "I feel jittery and unable to keep my hands steady."}
+{"output_text": "hypothyroidism", "input_text": "My skin feels unusually thick and rough."}
+{"output_text": "hyperthyroidism", "input_text": "I get short of breath easily and feel overheated."}
+{"output_text": "hypothyroidism", "input_text": "I feel like sleeping all the time and lack motivation."}
+{"output_text": "hyperthyroidism", "input_text": "I get irritable at small things and feel overly emotional."}
+{"output_text": "hashimoto's thyroiditis", "input_text": "My neck feels inflamed and swollen after meals."}
+{"output_text": "goiter", "input_text": "My enlarged neck makes it hard to wear high collars."}
+{"output_text": "thyroid nodules", "input_text": "I feel a lump in my neck when I tilt my head back."}
+{"output_text": "covid-19", "input_text": "I have a persistent dry cough and a fever that keeps rising."}
+{"output_text": "covid-19", "input_text": "I suddenly lost my sense of smell and taste completely."}
+{"output_text": "covid-19", "input_text": "I feel extremely tired and have body aches throughout the day."}
+{"output_text": "covid-19", "input_text": "I am having trouble breathing and feel tightness in my chest."}
+{"output_text": "covid-19", "input_text": "I have chills, fever, and a sore throat that started suddenly."}
+{"output_text": "covid-19", "input_text": "I feel exhausted even after resting and have a dry throat."}
+{"output_text": "covid-19", "input_text": "I have diarrhea and feel weak along with mild fever."}
+{"output_text": "covid-19", "input_text": "I keep coughing and feel pressure around my lungs."}
+{"output_text": "covid-19", "input_text": "I feel short of breath when walking short distances."}
+{"output_text": "covid-19", "input_text": "I have high fever and constant headaches."}
+{"output_text": "covid-19", "input_text": "My whole body aches and I have lost my appetite completely."}
+{"output_text": "covid-19", "input_text": "My throat is sore and I feel extremely fatigued."}
+{"output_text": "covid-19", "input_text": "I have a runny nose, fever, and difficulty breathing."}
+{"output_text": "covid-19", "input_text": "I am shivering even when the room is warm."}
+{"output_text": "covid-19", "input_text": "I feel breathless and my cough is getting worse daily."}
+{"output_text": "covid-19", "input_text": "My chest feels heavy and I get tired climbing stairs."}
+{"output_text": "covid-19", "input_text": "I have persistent fever and a headache that won't go away."}
+{"output_text": "covid-19", "input_text": "My muscles feel sore and I am coughing frequently."}
+{"output_text": "covid-19", "input_text": "My nose is blocked and I feel pressure in my chest."}
+{"output_text": "covid-19", "input_text": "I get breathless when talking for a long time."}
+{"output_text": "covid-19", "input_text": "I have fever, cough, and difficulty staying awake."}
+{"output_text": "covid-19", "input_text": "I experience dizziness and breathlessness together."}
+{"output_text": "covid-19", "input_text": "My throat feels scratchy and I am coughing nonstop."}
+{"output_text": "covid-19", "input_text": "I lost my sense of taste suddenly while eating."}
+{"output_text": "covid-19", "input_text": "I feel feverish and keep experiencing chills."}
+{"output_text": "covid-19", "input_text": "I have diarrhea and a pounding headache with high fever."}
+{"output_text": "covid-19", "input_text": "My chest hurts slightly when I breathe deeply."}
+{"output_text": "covid-19", "input_text": "I feel weak and have a mild cough but strong fatigue."}
+{"output_text": "covid-19", "input_text": "I feel pressure around my lungs and cannot breathe well."}
+{"output_text": "covid-19", "input_text": "I have a fever and cannot stop coughing."}
+{"output_text": "covid-19", "input_text": "I feel nauseous along with headaches and fever."}
+{"output_text": "covid-19", "input_text": "My breathing has become shallow and I have a dry cough."}
+{"output_text": "covid-19", "input_text": "I feel like my chest gets tight when I exert myself."}
+{"output_text": "covid-19", "input_text": "I feel severe fatigue and chills throughout the day."}
+{"output_text": "covid-19", "input_text": "I cannot smell food even though my nose isn’t blocked."}
+{"output_text": "covid-19", "input_text": "My throat hurts and I have fever and dizziness."}
+{"output_text": "covid-19", "input_text": "I am coughing heavily and feel breathless at night."}
+{"output_text": "covid-19", "input_text": "I feel a burning sensation when I breathe."}
+{"output_text": "covid-19", "input_text": "I keep sweating due to fever and weakness."}
+{"output_text": "covid-19", "input_text": "I have mild fever and a strange metallic taste in my mouth."}
+{"output_text": "covid-19", "input_text": "My whole body feels weak and I have frequent coughs."}
+{"output_text": "covid-19", "input_text": "I have chest discomfort and sore throat with fever."}
+{"output_text": "covid-19", "input_text": "I have headaches and lost my sense of smell."}
+{"output_text": "covid-19", "input_text": "I get tired walking even short distances due to breathlessness."}
+{"output_text": "covid-19", "input_text": "I have stomach upset, coughing, and light fever."}
+{"output_text": "covid-19", "input_text": "I feel extremely tired and have a persistent dry throat."}
+{"output_text": "vitamin d deficiency", "input_text": "I feel bone pain and my muscles feel weak even after resting."}
+{"output_text": "vitamin d deficiency", "input_text": "I get tired very easily and sunlight feels uncomfortable."}
+{"output_text": "vitamin d deficiency", "input_text": "I feel frequent back pain and stiffness."}
+{"output_text": "vitamin d deficiency", "input_text": "My joints feel painful and I feel fatigued."}
+{"output_text": "vitamin d deficiency", "input_text": "I feel depressed and low-energy without reason."}
+{"output_text": "vitamin d deficiency", "input_text": "I frequently get sick and feel weak most days."}
+{"output_text": "vitamin d deficiency", "input_text": "My legs ache when I stand for too long."}
+{"output_text": "vitamin d deficiency", "input_text": "I feel constant fatigue and difficulty climbing stairs."}
+{"output_text": "vitamin d deficiency", "input_text": "My muscles cramp and feel heavy when walking."}
+{"output_text": "vitamin d deficiency", "input_text": "I have bone tenderness and extreme tiredness."}
+{"output_text": "vitamin b12 deficiency", "input_text": "I feel tingling and numbness in my hands and feet."}
+{"output_text": "vitamin b12 deficiency", "input_text": "I feel extremely tired and dizzy often."}
+{"output_text": "vitamin b12 deficiency", "input_text": "I have pale skin and constant weakness."}
+{"output_text": "vitamin b12 deficiency", "input_text": "I have difficulty concentrating and remembering things."}
+{"output_text": "vitamin b12 deficiency", "input_text": "My tongue feels sore and inflamed."}
+{"output_text": "vitamin b12 deficiency", "input_text": "I feel breathless after mild activity."}
+{"output_text": "vitamin b12 deficiency", "input_text": "I get frequent headaches and fatigue together."}
+{"output_text": "vitamin b12 deficiency", "input_text": "I experience rapid heartbeat and weakness."}
+{"output_text": "vitamin b12 deficiency", "input_text": "I have mood swings and irritability."}
+{"output_text": "vitamin b12 deficiency", "input_text": "I often feel pins and needles sensation in my limbs."}
+{"output_text": "vitamin c deficiency", "input_text": "My gums bleed easily when brushing my teeth."}
+{"output_text": "vitamin c deficiency", "input_text": "I feel fatigued and my skin bruises quickly."}
+{"output_text": "vitamin c deficiency", "input_text": "My wounds take longer to heal than normal."}
+{"output_text": "vitamin c deficiency", "input_text": "I feel joint pain and swollen gums frequently."}
+{"output_text": "vitamin c deficiency", "input_text": "I feel weak and my skin looks rough and dry."}
+{"output_text": "vitamin c deficiency", "input_text": "I get frequent infections and feel tired."}
+{"output_text": "vitamin c deficiency", "input_text": "My hair feels dry and breaks easily."}
+{"output_text": "vitamin c deficiency", "input_text": "I notice red dots around hair follicles on my skin."}
+{"output_text": "vitamin c deficiency", "input_text": "I feel muscle weakness and persistent fatigue."}
+{"output_text": "vitamin c deficiency", "input_text": "My joints feel stiff and sore."}
+{"output_text": "vitamin a deficiency", "input_text": "I have trouble seeing clearly at night."}
+{"output_text": "vitamin a deficiency", "input_text": "My eyes feel dry and irritated throughout the day."}
+{"output_text": "vitamin a deficiency", "input_text": "I get frequent eye infections lately."}
+{"output_text": "vitamin a deficiency", "input_text": "My skin feels dry and rough like sandpaper."}
+{"output_text": "vitamin a deficiency", "input_text": "I have difficulty adjusting my eyes when light changes."}
+{"output_text": "vitamin a deficiency", "input_text": "My hair is becoming dry and brittle."}
+{"output_text": "vitamin a deficiency", "input_text": "I get throat infections often lately."}
+{"output_text": "vitamin a deficiency", "input_text": "I struggle with poor vision and dryness in both eyes."}
+{"output_text": "vitamin a deficiency", "input_text": "I have dry patches on my skin and frequent infections."}
+{"output_text": "vitamin a deficiency", "input_text": "I feel my eyesight has weakened in dim lighting."}
+{"output_text": "vitamin k deficiency", "input_text": "I bruise very easily even with small bumps."}
+{"output_text": "vitamin k deficiency", "input_text": "My cuts bleed longer than normal before clotting."}
+{"output_text": "vitamin k deficiency", "input_text": "I have frequent nosebleeds and gum bleeding."}
+{"output_text": "vitamin k deficiency", "input_text": "I have heavy menstrual bleeding and easy bruising."}
+{"output_text": "vitamin k deficiency", "input_text": "I notice tiny red spots on my skin from bleeding."}
+{"output_text": "vitamin e deficiency", "input_text": "I feel muscle weakness and trouble with coordination."}
+{"output_text": "vitamin e deficiency", "input_text": "I experience vision problems and frequent headaches."}
+{"output_text": "vitamin e deficiency", "input_text": "My muscles feel sore and I have balance issues."}
+{"output_text": "vitamin e deficiency", "input_text": "I feel tingling in my hands and legs often."}
+{"output_text": "vitamin e deficiency", "input_text": "I feel fatigued and my immune system feels weak."}
+{"output_text": "folate deficiency", "input_text": "I feel tired all the time and get short of breath."}
+{"output_text": "folate deficiency", "input_text": "I feel dizzy when standing up quickly."}
+{"output_text": "folate deficiency", "input_text": "My mouth corners are cracked and painful."}
+{"output_text": "folate deficiency", "input_text": "I experience headaches along with weakness."}
+{"output_text": "folate deficiency", "input_text": "I have poor appetite and pale skin."}
+{"output_text": "vitamin b1 deficiency", "input_text": "I feel tingling in my feet and have trouble walking."}
+{"output_text": "vitamin b1 deficiency", "input_text": "I feel easily tired and have muscle weakness."}
+{"output_text": "vitamin b1 deficiency", "input_text": "My heart beats fast even when resting."}
+{"output_text": "vitamin b1 deficiency", "input_text": "I feel confused and forgetful lately."}
+{"output_text": "vitamin b1 deficiency", "input_text": "My legs feel numb and heavy."}
+{"output_text": "vitamin b2 deficiency", "input_text": "I have cracks at the corners of my mouth that won’t heal."}
+{"output_text": "vitamin b2 deficiency", "input_text": "My tongue feels swollen and reddish."}
+{"output_text": "vitamin b2 deficiency", "input_text": "My eyes feel sensitive to bright light."}
+{"output_text": "vitamin b2 deficiency", "input_text": "I feel fatigued and get frequent mouth sores."}
+{"output_text": "vitamin b2 deficiency", "input_text": "My skin appears oily with red patches around my nose."}
+{"output_text": "vitamin b6 deficiency", "input_text": "I get frequent mood swings and irritability."}
+{"output_text": "vitamin b6 deficiency", "input_text": "My hands feel numb and I have trouble sleeping."}
+{"output_text": "vitamin b6 deficiency", "input_text": "I get painful cracks around my lips."}
+{"output_text": "vitamin b6 deficiency", "input_text": "I have frequent headaches and low energy."}
+{"output_text": "vitamin b6 deficiency", "input_text": "My skin feels dry and itchy often."}
