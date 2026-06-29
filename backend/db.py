@@ -2,7 +2,7 @@ import os
 import mysql.connector
 from dotenv import load_dotenv
 
-load_dotenv()
+load_dotenv(dotenv_path=os.path.join(os.path.dirname(__file__), "..", ".env"))
 
 def get_db():
     return mysql.connector.connect(
@@ -12,4 +12,3 @@ def get_db():
         database=os.getenv("DB_NAME"),
         port=int(os.getenv("DB_PORT", 3306))
     )
-print("DB_USER =", os.getenv("DB_USER"))

@@ -153,7 +153,10 @@ def train_model():
     y_encoded = [label_encoder[d] for d in y]
     
     X_train, X_test, y_train, y_test = train_test_split(
-        X, y_encoded, test_size=0.2, random_state=42, stratify=y_encoded
+    X,
+    y_encoded,
+    test_size=0.2,
+    random_state=42
     )
     
     global reverse_label_encoder_global
